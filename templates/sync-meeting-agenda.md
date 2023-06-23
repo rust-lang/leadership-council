@@ -1,0 +1,11 @@
+# Sync Meeting Agenda Template
+
+- Check-in
+- Assign roles
+- Turn on recording
+- Consent to agenda
+- Agenda Item 1 (*Champion's Name* **Time**: $N Minutes)
+    - **Goal**:  
+    - **Proposal**:  
+- Call for clarifications
+- Check-out
