@@ -1,3 +1,3 @@
 # The Rust Code of Conduct
 
-The Code of Conduct for this repository [can be found online](https://www.rust-lang.org/conduct.html).
+This repository follows the Rust Project Code of Conduct, which [can be found on the Rust Language web site](https://www.rust-lang.org/conduct.html).
