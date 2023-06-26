@@ -7,5 +7,6 @@
 - Agenda Item 1 (*Champion's Name* **Time**: $N Minutes)
     - **Goal**:  
     - **Proposal**:  
+    - **Previous discussion**:
 - Call for clarifications
 - Check-out
