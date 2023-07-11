@@ -25,7 +25,7 @@ How does this committee work? Does it have meetings? Does it require consensus o
 
 * This committee tracks it's backlog within the meeting minutes hackmd document.
 * This committee works via zulip and has video meetings on an as needed basis.
-* This committee operates via consent, the proposal will be presented to the council once all committee members have fully reviewed the council and have no further feedback or objections.
+* This committee operates via consent, the proposal will be presented to the council once all committee members have fully reviewed the proposal and have no further feedback or objections.
 
 ## Members
 
