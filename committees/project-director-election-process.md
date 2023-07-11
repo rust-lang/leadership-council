@@ -3,7 +3,7 @@
 ## Goals
 
 * Design the election process for the next set of Rust Foundation project directors (ratified by the leadership council)
-* Clearly document and communicate the process and support it’s execution
+* Clearly document and communicate the process and support its execution
 * Track, review, and document the effectiveness of the process
 
 ## Delegated Responsibilities
