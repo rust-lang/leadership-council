@@ -1,5 +1,9 @@
 # Leadership Council _Project Director Election Process_ Committee
 
+## Mission
+
+This committee is tasked to to establish the process for selecting Project Directors for the Rust Foundation to fulfill the requirements of [RFC 3392](https://rust-lang.github.io/rfcs/3392-leadership-council.html).
+
 ## Goals
 
 * Design the election process for the next set of Rust Foundation project directors (ratified by the leadership council)
@@ -8,11 +12,13 @@
 
 ## Delegated Responsibilities
 
-* None, this committee exists to create a proposal which will be consented to by the council
+* This committee decides the content of the proposal which will be presented to the council for their consent.
 
 ## Duration
 
-* Temporary. This committee may be recreated each time we do a project director election in order to help support the process.
+* Temporary
+* This committee may be recreated each time we do a project director election in order to help support the process.
+* The committee will wrap up once it has finished it's review of the process's effectiveness (estimated: 1 month post selection)
 
 ## Contact, Communication, and Workspace
 
@@ -20,8 +26,6 @@
 - **Meeting Minutes**: https://hackmd.io/@rust-leadership-council/BJANZIm_h
 
 ## Process
-
-How does this committee work? Does it have meetings? Does it require consensus on all decisions? Does it present reports or recommendations to the Council? Is it required for decisions to be brought up to the Council?
 
 * This committee tracks it's backlog within the meeting minutes hackmd document.
 * This committee works via zulip and has video meetings on an as needed basis.
