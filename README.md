@@ -18,3 +18,7 @@ If you'd like to participate in conversations about governance or otherwise inte
 [rfc]: https://github.com/rust-lang/rfc-leadership-council/blob/63a867ee7a14599e864b4ccba3964a9f086ae400/text/3392-leadership-council.md
 [motivation]: https://github.com/rust-lang/rfc-leadership-council/blob/63a867ee7a14599e864b4ccba3964a9f086ae400/text/3392-leadership-council/motivation.md
 [zulip]: https://rust-lang.zulipchat.com/#narrow/stream/392734-council
+
+## License
+
+Content in this repository is licensed under the [MIT license](LICENSE-MIT) and the [Apache license 2.0](LICENSE-APACHE).
