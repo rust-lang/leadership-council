@@ -48,7 +48,7 @@ The purpose of this policy is to outline a clear and efficient process for elect
     * Use a round format (e.g. [round format](https://www.sociocracyforall.org/on-rounds/))
     * Nominations must include supporting reasoning 
 * Change Round
-    * During the change round, every team member will say who they nominate now and share reasons for their change if that applies.
+    * During the change round, every team member will share their set of nominees and the reasons for their change if that applies.
 * Facilitator proposes a candidate:
     * Based on gathered data, the facilitator suggests a candidate they believe will receive the group's consent.
 * Seek objections to the facilitator's proposal
