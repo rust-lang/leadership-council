@@ -46,6 +46,8 @@ The purpose of this policy is to outline a clear and efficient process for elect
 
 ### Election Meeting
 
+The election meeting is compromised of all members of the Leadership Council who will actively participate in the consensus process as well as the facilitator who will facilitate that process.
+
 * Share nominations
     * Write down nominations first[^1].
     * Use a round format (e.g. [round format](https://www.sociocracyforall.org/on-rounds/))
