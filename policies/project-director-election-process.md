@@ -34,9 +34,12 @@ The purpose of this policy is to outline a clear and efficient process for elect
 * Gather nominations
     * Council representatives collaborate with their subteams to collect nominations on behalf of their branch of the organization tree.
     * Subteams can utilize any process they prefer, but we recommend following a similar approach to the process outlined in the "Election Meeting" section below
-* Share nominations publicly
-    * Each team representative must publicly share their team's nominations at least ten days before the final election meeting. This allows other teams to share feedback or objections about candidates their team didn't initially consider with their representative.
-    * This 10-day period is equivalent to the Change Round in the "Election Meeting" step; representatives may change their nominations in advance of the meeting
+    * The facilitator may a minimum or maximum time period 
+* Share nominations
+    * Each team representative must share their team's nominations and the reasoning for their nominations with the council's selected facilitator.
+    * The facilitator must publicly share all team's nominations and reasonings at least ten days before the final election meeting.
+        * This allows other teams to share feedback or objections about candidates their team didn't initially consider with their representative.
+    * This 10-day period is equivalent to the Change Round in the "Election Meeting" step; representatives may change their nominations in advance of the meeting, this does not require restarting the 10-day period.
 
 ### Election Meeting
 
