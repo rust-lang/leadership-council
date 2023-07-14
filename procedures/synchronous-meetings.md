@@ -20,7 +20,7 @@ If quorum is not reached, then the sync meeting is canceled and the agenda is go
 
 ## Minutes
 
-Detailed minutes must be taken of the meeting even if the meeting was otherwise recorded. The meeting minutes must be made public within one week after the meeting concludes (or a delay must be publicly announced and resolved as soon as possible). After the meeting, Council members must review the minutes to ensure that the minutes reflect their understanding of what occurred in the meeting. Once consensus is reached that the minutes are accurate, they are released for public viewing.
+Detailed minutes must be taken of the meeting even if the meeting was otherwise recorded. The meeting minutes must be made public within one week after the meeting concludes (or a delay must be publicly announced and resolved as soon as possible). After the meeting, Council members must review the minutes to ensure that the minutes reflect their understanding of what occurred in the meeting. Once there is consent that the minutes are accurate, they are released for public viewing.
 
 Minutes may be found [in the 'minutes' directory of the leadership Council team repository](../minutes).
 
@@ -28,7 +28,7 @@ Minutes may be found [in the 'minutes' directory of the leadership Council team 
 
 All meetings are recorded, but consensus must be reached after the meeting on what do with the recording. The Council has no obligation to do anything with the recording. If after one week, consensus on what to do with the recording has not been reached, the default is to delete the recording. 
 
-Recordings are usually used to ensure that the notes are correct and to optionally create automatic transcripts. Recordings can also *optionally* be made public, but only with consensus of all of those present on the recording.
+Recordings are usually used to ensure that the notes are correct and to optionally create automatic transcripts. Recordings can also *optionally* be made public, but only with consent of all of those present on the recording.
 
 ## Meeting roles
 
@@ -39,7 +39,7 @@ The meeting has the following assigned roles:
 
 ## Meeting Agenda
 
-The facilitator is in charge of ensuring that a proposal for the main agenda for the meeting is made publicly available as a pull request (as the start of the documented minutes for the meeting) to the Council team repository at least 2 days before the meeting. All Council members may comment on, revise, add to or otherwise collaborate on ensuring the agenda is in the right shape.
+The main agenda for the meeting must be made publicly available as a pull request (as the start of the documented minutes for the meeting) to the Council team repository at least 2 days before the meeting. All Council members may comment on, revise, add to or otherwise collaborate on ensuring the agenda is in the right shape.
 
 The agenda should contain the following for each agenda item:
 
@@ -51,6 +51,7 @@ The agenda should contain the following for each agenda item:
 - An optional proposal (something that requires review and approval through the decision making process)
   - *Note*: proposals require another Council member to second the proposal before it can be brought forward.
 - Links to previous discussion to facilitate getting up to speed with the current state of discussion around the item.
+- An optional list of existing concerns that can be used to identify stakeholders and bring concerns to the attention of everyone before the meeting.
 
 The agenda is laid out in temporal order which is determined largely by the urgency of each topic (most urgent comes first). However, this is not a hard rule as, for example, it might make sense to keep one large discussion (even if it is the most urgent) for last in the meeting so that it can simply fill the entire remainder of the meeting time.
 
