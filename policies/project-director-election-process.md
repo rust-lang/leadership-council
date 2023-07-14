@@ -1,6 +1,6 @@
 # Project Director Election Process
 
-## Aims
+## Goals
 
 The purpose of this policy is to outline a clear and efficient process for electing new Project Directors to represent the Rust project on the board of the Rust Foundation. The process aims to achieve the following goals:
 
@@ -20,11 +20,11 @@ The purpose of this policy is to outline a clear and efficient process for elect
 * The council selects a facilitator by consent:
     * Any team member can suggest a facilitator or volunteer themselves.
     * The facilitator must not be a nominee in the election and must be someone everyone trusts to set aside personal preferences during the election process.
-    * **Aims of the facilitator role**
+    * **Goals of the facilitator role**
         * Clearly documenting and communicating the process and announcing and supporting its execution.
         * Tracking, reviewing, and documenting the effectiveness of the process.
-* Review Role Description ([example](https://github.com/rust-lang/rfcs/pull/3392#issuecomment-1505697944))
-    * Aims
+* Review Role Description ([example](https://github.com/rust-lang/rfcs/pull/3392#issuecomment-1505697944)). The role description must contain the following content at a minimum:
+    * Goals
     * Time Investment
     * Responsibilities
     * Qualifications
