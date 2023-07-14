@@ -5,7 +5,7 @@
 The purpose of this policy is to outline a clear and efficient process for electing new Project Directors to represent the Rust project on the board of the Rust Foundation. The process aims to achieve the following goals:
 
 * Select candidates who fulfill the outlined candidate criteria, focusing on shared power and new leadership rather than solely prioritizing the best candidate.
-    * Strive for tolerance and inclusivity, aiming for the overlap of tolerance rather than the overlap of preference.
+    * Strive for tolerance and inclusivity, aiming for the overlap of tolerance rather than the overlap of preference. In other words, we want to prioritize a selection that everyone can accept over selecting anyone's first choice.
 * Conduct the selection process in a time-efficient manner.
 * Incorporate input from a wide range of stakeholders across the entire Rust project.
 * Ensure a diverse pool of qualified candidates for selection.
