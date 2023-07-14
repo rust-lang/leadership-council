@@ -11,6 +11,7 @@ The purpose of this policy is to outline a clear and efficient process for elect
 * Ensure a diverse pool of qualified candidates for selection.
 * Create a psychologically safe environment that values minority perspectives and encourages positive feedback, encouragement, and tolerance rather than preference or criticism.
 * Ensure participants feel positive about their interactions and the execution of the process.
+* Ensure the process is compliant with Rust Foundation bylaws and by extension Delaware corporation law.
 
 ## Description
 
