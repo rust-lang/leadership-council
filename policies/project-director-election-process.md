@@ -22,7 +22,7 @@ The purpose of this policy is to outline a clear and efficient process for elect
     * **Aims of the facilitator role**
         * Clearly documenting and communicating the process and announcing and supporting its execution.
         * Tracking, reviewing, and documenting the effectiveness of the process.
-* Review or Define Role Description ([example](https://github.com/rust-lang/rfcs/pull/3392#issuecomment-1505697944))
+* Review Role Description ([example](https://github.com/rust-lang/rfcs/pull/3392#issuecomment-1505697944))
     * Aims
     * Time Investment
     * Responsibilities
