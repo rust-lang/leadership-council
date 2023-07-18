@@ -37,7 +37,7 @@ The purpose of this policy is to outline a clear and efficient process for elect
     * The announcement will specify a date by which nominations must be submitted. This date will be no less than two weeks from the date the announcement goes out, and no more than four weeks.
     * Council representatives collaborate with their subteams to collect nominations on behalf of their branch of the organization tree.
     * Subteams can utilize any process they prefer, but we recommend following a similar approach to the process outlined in the "Election Meeting" section below
-    * The facilitator may a minimum or maximum time period 
+    * The facilitator may specify a minimum or maximum time period 
 * Share nominations (*Nominations from all teams will be pooled together. In other words, teams do not have to nominate a set of directors as a whole. They may nominated any number of potential directors and the Council will select from the pool a number of directors equal to the number of open seats.*)
     * Each team representative must share their team's nominations and the reasoning for their nominations with the council's selected facilitator.
     * The facilitator must publicly share the pool of all nominations and reasonings at least ten days before the final election meeting.
