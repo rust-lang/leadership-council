@@ -51,7 +51,7 @@ The election meeting is compromised of all members of the Leadership Council who
 
 * Share nominations
     * Write down nominations first[^1].
-    * Use a round format (e.g. [round format](https://www.sociocracyforall.org/on-rounds/))
+    * Use a round format[^2] (e.g. [round format](https://www.sociocracyforall.org/on-rounds/))
     * Nominations must include supporting reasoning 
 * Change Round
     * During the change round, every team member will share their set of nominees and the reasons for their change if that applies.
@@ -73,3 +73,4 @@ The election meeting is compromised of all members of the Leadership Council who
 One of the goals of this policy is to create opportunities for new leadership. We want to create an environment that encourages people to step up into power. Sometimes the confidence and faith of a group can give people the confidence they need to consent to being selected. Candidates can always object to accepting a role, but we save that step for last to try to filter out as few candidates as possible who would otherwise have objected prior to hearing all the reasons people have confidence in them.
 
 [^1]: During the nomination round, it is incredibly tempting to just go with the group energy, especially when you are speaking late in the Round. Writing down your nomination will encourage you to share your genuine nomination without getting swayed too soon (or not at all). So often, the best ideas are the ones that seem peripheral at first.
+[^2]: A round is a conversation format where everyone speaks, one by one, until everyone in the group has spoken. It starts with the facilitator asking a specific question or prompt to one person and then proceeds one by one until everyone has shared. In a round, people can share their initial reactions and reflections on what has been stated before them. It is a way to ensure that everyone's voice is heard equally, and it gives maximum input both from individuals and group wisdom.
