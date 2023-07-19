@@ -4,7 +4,7 @@
 
 The purpose of this policy is to outline a clear and efficient process for electing new Project Directors to represent the Rust project on the board of the Rust Foundation. The process aims to achieve the following goals:
 
-* Select candidates who fulfill the outlined candidate criteria in the [role description document](TODO: link), focusing on shared power and new leadership rather than solely prioritizing the best candidate.
+* Select candidates who fulfill the outlined candidate criteria in the [role description document](TODO: link), focusing on new leadership and diverse perspectives rather than solely prioritizing the best candidate.
     * Strive for tolerance and inclusivity by prioritizing selecting candidates that everyone can accept over selecting a subset of people's first choice.
 * Conduct the selection process in a time-efficient manner.
 * Incorporate input from a wide range of stakeholders across the entire Rust project.
@@ -65,5 +65,11 @@ The election meeting is compromised of all members of the Leadership Council who
     * Continue seeking consensus and addressing objections until a satisfactory candidate is selected.
         * Note that this process seeks to produce a candidate everyone is satisfied with and has no objections to. Avoid lengthy debates over preferences not related to objections or unmet requirements.
 * Document and announce the selection
+
+### FAQ
+
+#### Why is there no step where we require that people consent to be nominated?
+
+One of the goals of this policy is to create opportunities for new leadership. We want to create an environment that encourages people to step up into power. Sometimes the confidence and faith of a group can give people the confidence they need to consent to being selected. Candidates can always object to accepting a role, but we save that step for last to try to filter out as few candidates as possible who would otherwise have objected prior to hearing all the reasons people have confidence in them.
 
 [^1]: During the nomination round, it is incredibly tempting to just go with the group energy, especially when you are speaking late in the Round. Writing down your nomination will encourage you to share your genuine nomination without getting swayed too soon (or not at all). So often, the best ideas are the ones that seem peripheral at first.
