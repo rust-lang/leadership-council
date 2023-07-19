@@ -1,5 +1,7 @@
 # Role Description: Rust Foundation Project Director
 
+Please refer to [Rust Foundation Director Roles & Responsibilities](TODO) for components of the role description that apply to all Foundation Board Directors.
+
 ## Goals
 
 - Represent the needs and interests of the Rust Project at large within the Rust Foundation board
