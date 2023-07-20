@@ -14,6 +14,7 @@ Please refer to [Rust Foundation Director Roles & Responsibilities](TODO) for co
 
 ## Tasks / Activities / Responsibilities
 
+- [Abide by the Roles & Responsibilites of Foundation Board Members](https://foundation.rust-lang.org/static/board-director-role-description.pdf)
 - Attend Rust Foundation board meetings
 - Help prepare and present the "Project Director Update" for each board meeting
 - Meet with the Rust Foundation staff on a regular basis
