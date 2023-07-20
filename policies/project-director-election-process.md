@@ -36,11 +36,12 @@ The purpose of this policy is to outline a clear and efficient process for elect
     * The nomination process begins with an announcement from the facilitator chosen in the Setup phase. Council representatives should help publicize this announcement to their teams as well.
     * The announcement will specify a date by which nominations must be submitted. This date will be no less than two weeks from the date the announcement goes out, and no more than four weeks.
     * Council representatives collaborate with their subteams to collect nominations on behalf of their branch of the organization tree.
-      * Nominations do not have to be members of the Council representative's respective team but must be project members. 
+      * Nominations do not have to be members of the Council representative's respective team but must be project members.
     * Subteams can utilize any process they prefer, but we recommend following a similar approach to the process outlined in the "Election Meeting" section below
-    * The facilitator may specify a minimum or maximum time period 
-* Share nominations (*Nominations from all teams will be pooled together. In other words, teams do not have to nominate a set of directors as a whole. They may nominate any number of potential directors and the Council will select from the pool a number of directors equal to the number of open seats.*)
-    * Each team representative must share their team's nominations and the reasoning for their nominations with the council's selected facilitator.
+    * The facilitator may specify a minimum or maximum time period
+* Share nominations
+    * *Nominations from all teams will be pooled together. In other words, teams do not have to nominate a set of directors as a whole. They may nominate any number of potential directors and the Council will select from the pool a number of directors equal to the number of open seats.*
+    * Each team representative must share their team's nominations and the reasoning for their nominations first with the candidates, and then, for those candidates who consent to be nominated, with the council's selected facilitator.
     * The facilitator must publicly share the pool of all nominations and reasonings at least ten days before the final election meeting.
         * This allows other teams to share feedback or objections about candidates their team didn't initially consider with their representative.
     * This 10-day period is equivalent to the Change Round in the "Election Meeting" step; representatives may change their nominations in advance of the meeting, this does not require restarting the 10-day period.
