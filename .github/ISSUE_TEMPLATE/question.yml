@@ -1,0 +1,18 @@
+name: Question
+description: Ask a question for the Council
+labels: ["question", "S-triage"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        You are welcome to ask a question for the Council here, though you may alternatively consider asking your question on the [Leadership Council Zulip stream](https://rust-lang.zulipchat.com/#narrow/stream/392734-council).
+
+        For private issues, please send email to <mailto:council@rust-lang.org>.
+  - type: textarea
+    id: question
+    attributes:
+      label: Question
+      description: >
+        Enter your question here. Please try to provide as much detail as possible.
+    validations:
+      required: true
