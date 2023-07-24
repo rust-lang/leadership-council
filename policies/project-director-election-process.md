@@ -19,7 +19,7 @@ The purpose of this policy is to outline a clear and efficient process for elect
 
 * The council selects a facilitator by consent:
     * Any team member can suggest a facilitator or volunteer themselves.
-    * The facilitator must not be a nominee in the election and must be someone everyone trusts to set aside personal preferences during the election process.
+    * The facilitator must not be a nominee in the election and must be someone the council trusts to set aside personal preferences during the election process.
     * **Goals of the facilitator role**
         * Clearly documenting and communicating the process and announcing and supporting its execution.
         * Tracking, reviewing, and documenting the effectiveness of the process.
