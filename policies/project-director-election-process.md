@@ -41,7 +41,7 @@ The purpose of this policy is to outline a clear and efficient process for elect
     * The facilitator may specify a minimum or maximum time period
 * Share nominations
     * *Nominations from all teams will be pooled together. In other words, teams do not have to nominate a set of directors as a whole. They may nominate any number of potential directors and the Council will select from the pool a number of directors equal to the number of open seats.*
-    * Each team representative must share their team's nominations and the reasoning for their nominations first with the candidates, and then, for those candidates who consent to be nominated, with the council's selected facilitator.
+    * Each team representative must share their team's nominations and the reasoning for their nominations first with the candidates being nominated, and then, for those candidates who consent to be nominated, with the council's selected facilitator.
     * The facilitator must publicly share the pool of all nominations and reasonings at least ten days before the final election meeting.
         * This allows other teams to share feedback or objections about candidates their team didn't initially consider with their representative.
     * This 10-day period is equivalent to the Change Round in the "Election Meeting" step; representatives may change their nominations in advance of the meeting, this does not require restarting the 10-day period.
