@@ -25,7 +25,6 @@ Please refer to [Rust Foundation Director Roles & Responsibilities](TODO) for co
 
 - Sufficient time and energy to dedicate to the needs of the Rust Foundation and the Rust Project.
 - An interest in helping with the topics of Project operations and Project governance.
-- Broad awareness of the needs of the Project outside of their teams or areas of active contribution.
 - A keen sense of the needs of Rust Project, its teams, processes, and ecosystem.
 - Ability to prioritize others' needs, representing all viewpoints from the Rust Project, not just those they agree with.
 - TODO Fill out this list
