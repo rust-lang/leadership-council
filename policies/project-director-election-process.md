@@ -55,7 +55,8 @@ The election meeting is compromised of all members of the Leadership Council who
     * Use a round format[^2] (e.g. [round format](https://www.sociocracyforall.org/on-rounds/))
     * Nominations must include supporting reasoning 
 * Change Round
-    * During the change round, every team member will share their set of nominees and the reasons for their change if that applies.
+    * During the change round, every team member will share their current preferred nominees and the reasons for changes from the previous preferred nominees if that applies.
+    * Note that the change round is driving around discussing and trying to select the best possible nominee(s) rather than discussing the full set of nominees. Council members are *not* de-selecting a nominee from consideration by not picking their name during the change round as their preferred choice.
 * Facilitator proposes a candidate:
     * Based on gathered data, the facilitator suggests a candidate they believe will receive the group's consent.
 * Seek objections to the facilitator's proposal
