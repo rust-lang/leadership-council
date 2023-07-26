@@ -5,7 +5,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        You are welcome to ask a question for the Council here, though you may alternatively consider asking your question on the [Leadership Council Zulip stream](https://rust-lang.zulipchat.com/#narrow/stream/392734-council).
+        You are welcome to ask a question for the Council here, though you may alternatively consider asking your question on the [Leadership Council Zulip stream](https://rust-lang.zulipchat.com/#narrow/stream/392734-council). Use whichever platform you are comfortable with.
 
         For private issues, please send email to <mailto:council@rust-lang.org>.
 
