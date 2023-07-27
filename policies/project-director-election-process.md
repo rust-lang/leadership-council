@@ -33,7 +33,7 @@ The purpose of this policy is to outline a clear and efficient process for elect
 ### Pre-Meeting Coordination
 
 * Gather nominations
-    * The nomination process begins with an announcement from the facilitator chosen in the Setup phase. Council representatives should help publicize this announcement to their teams as well.
+    * The nomination process begins with a public announcement made on public communication channels from the facilitator chosen in the Setup phase. Council representatives should help publicize this announcement to their teams as well.
     * The announcement will specify a date by which nominations must be submitted. This date will be no less than two weeks from the date the announcement goes out, and no more than four weeks.
     * Council representatives collaborate with their subteams to collect nominations on behalf of their branch of the organization tree.
       * Nominations do not have to be members of the Council representative's respective team but must be project members.
