@@ -68,6 +68,13 @@ The election meeting is compromised of all members of the Leadership Council who
         * Note that this process seeks to produce a candidate everyone is satisfied with and has no objections to. Avoid lengthy debates over preferences not related to objections or unmet requirements.
 * Document and announce the selection
 
+If for some reason the Council is unable to reach consensus on a group of
+candidates (for example, the Council finds blocking objections to all
+candidates), the Council will postpone the election process to give a chance to
+troubleshoot and find an approach that is more likely to be successful. We do
+not specify how this will happen, but the council would likely convene a
+subcommittee to work on the issue and report back to the council.
+
 ### FAQ
 
 #### Why is there no step where we require that people consent to be nominated?
