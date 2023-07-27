@@ -1,0 +1,20 @@
+name: Question
+description: Ask a question for the Council
+labels: ["question", "S-triage"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        You are welcome to ask a question for the Council here, though you may alternatively consider asking your question on the [Leadership Council Zulip stream](https://rust-lang.zulipchat.com/#narrow/stream/392734-council). Use whichever platform you are comfortable with.
+
+        For private issues, please send email to <mailto:council@rust-lang.org>.
+
+        If you want to bring up a security issue, please do not open a public issue on GitHub. Instead, we ask you to refer to Rust's [security policy](https://www.rust-lang.org/security.html).
+  - type: textarea
+    id: question
+    attributes:
+      label: Question
+      description: >
+        Enter your question here. Please try to provide as much detail as possible.
+    validations:
+      required: true
