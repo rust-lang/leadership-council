@@ -75,6 +75,13 @@ troubleshoot and find an approach that is more likely to be successful. We do
 not specify how this will happen, but the council would likely convene a
 subcommittee to work on the issue and report back to the council.
 
+### Conflicts of Interest
+
+The Council will follow the policies defined in the [Leadership Council
+RFC][rfc3392] for handling conflicts of interest. One potential source of
+conflicts of interest is if a Council member is nominated as a candidate for the
+Project Director role.
+
 ### FAQ
 
 #### Why is there no step where we require that people consent to be nominated?
