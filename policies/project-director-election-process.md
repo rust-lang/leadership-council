@@ -82,6 +82,7 @@ RFC][rfc3392] for handling conflicts of interest. One potential source of
 conflicts of interest is if a Council member is nominated as a candidate for the
 Project Director role.
 
+[rfc3392]: https://rust-lang.github.io/rfcs/3392-leadership-council.html
 ### FAQ
 
 #### Why is there no step where we require that people consent to be nominated?
