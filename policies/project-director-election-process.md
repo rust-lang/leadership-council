@@ -48,7 +48,7 @@ The purpose of this policy is to outline a clear and efficient process for elect
 
 ### Election Meeting
 
-The election meeting is compromised of all members of the Leadership Council who will actively participate in the consensus process as well as the facilitator who will facilitate that process.
+The election meeting is comprised of all members of the Leadership Council who will actively participate in the consensus process as well as the facilitator who will facilitate that process.
 
 * Share nominations
     * Write down nominations first[^1].
