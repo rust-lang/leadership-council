@@ -4,7 +4,7 @@
 - Assign roles
 - Turn on recording
 - Announcements
-    - Highlight any upcoming deadlines that need attention
+    - Highlight any upcoming deadlines that need attention <https://hackmd.io/@rust-leadership-council/H1bb7yPs2>
 - Consent to agenda
 - Agenda Item 1 (*Champion's Name* **Time**: $N Minutes)
     - **Goal**:  
