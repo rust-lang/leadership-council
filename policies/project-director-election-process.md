@@ -56,7 +56,7 @@ The election meeting is comprised of all members of the Leadership Council who w
     * Nominations must include supporting reasoning 
 * Change Round
     * During the change round, every team member will share their current preferred nominees and the reasons for changes from the previous preferred nominees if that applies.
-    * Note that the change round is driving around discussing and trying to select the best possible nominee(s) rather than discussing the full set of nominees. Council members are *not* de-selecting a nominee from consideration by not picking their name during the change round as their preferred choice.
+    * Note that the change round is driving around discussing and trying to select the best possible nominee(s) rather than discussing the full set of nominees. De-selecting a nominee from consideration in a given change round does not disqualify the nominee from being selected in future change rounds.
 * Facilitator proposes a candidate:
     * Based on gathered data, the facilitator suggests a candidate they believe will receive the group's consent.
 * Seek objections to the facilitator's proposal
@@ -85,9 +85,9 @@ Project Director role.
 [rfc3392]: https://rust-lang.github.io/rfcs/3392-leadership-council.html
 ### FAQ
 
-#### Why is there no step where we require that people consent to be nominated?
+#### Why is there no step where we initially require that people consent to be nominated?
 
-One of the goals of this policy is to create opportunities for new leadership. We want to create an environment encouraging people to step up into power. Sometimes the confidence and faith of a group can give people the confidence they need to consent to being selected. Candidates can always object to being nominated publicly or accepting the role. Still, we save that step for the last moment to filter out as few candidates as possible who would otherwise have objected before hearing all the reasons people have confidence in them.
+One of the goals of this policy is to create opportunities for new leadership. We want to create an environment encouraging people to step up into power. Sometimes the confidence and faith of a group can give people the confidence they need to consent to being selected. Thus, we do not require people to ask the nominee for consent in the Pre-Meeting Coordination phase. We will, however, explicitly ask each candidate before considering them during the Election Meeting.
 
 [^1]: During the nomination round, it is incredibly tempting to just go with the group energy, especially when you are speaking late in the Round. Writing down your nomination will encourage you to share your genuine nomination without getting swayed too soon (or not at all). So often, the best ideas are the ones that seem peripheral at first.
 [^2]: A round is a conversation format where everyone speaks, one by one, until everyone in the group has spoken. It starts with the facilitator asking a specific question or prompt to one person and then proceeds one by one until everyone has shared. In a round, people can share their initial reactions and reflections on what has been stated before them. It is a way to ensure that everyone's voice is heard equally, and it gives maximum input both from individuals and group wisdom.
