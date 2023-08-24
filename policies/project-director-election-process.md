@@ -11,7 +11,7 @@ The purpose of this policy is to outline a clear and efficient process for elect
 * Ensure a diverse pool of qualified candidates for selection.
 * Create a psychologically safe environment that values minority perspectives and encourages positive feedback, encouragement, and tolerance rather than personal preference or criticism.
 * Ensure participants feel positive about their interactions and the execution of the process.
-* Ensure the process is compliant with Rust Foundation bylaws and by extension Delaware corporation law.
+* Ensure the process is compliant with Rust Foundation bylaws and Delaware corporation law.
 
 ## Description
 
@@ -40,11 +40,12 @@ The purpose of this policy is to outline a clear and efficient process for elect
     * Subteams can utilize any process they prefer, but we recommend following a similar approach to the process outlined in the "Election Meeting" section below
     * The facilitator may specify a minimum or maximum time period
 * Share nominations
-    * *Nominations from all teams will be pooled together. In other words, teams do not have to nominate a set of directors as a whole. They may nominate any number of potential directors and the Council will select from the pool a number of directors equal to the number of open seats.*
+    * *Nominations from all teams will be pooled together. In other words, teams do not have to nominate a set of directors as a whole. They may nominate any number of potential directors.*
     * Each team representative must share their team's nominations and the reasoning for their nominations first with the candidates being nominated, and then, for those candidates who consent to be nominated, with the council's selected facilitator.
     * The facilitator must publicly share the pool of all nominations and reasonings at least ten days before the final election meeting.
         * This allows other teams to share feedback or objections about candidates their team didn't initially consider with their representative.
     * This 10-day period is equivalent to the Change Round in the "Election Meeting" step; representatives may change their nominations in advance of the meeting, this does not require restarting the 10-day period.
+    * Once nominations are final, the facilitator will share the names of all nominees with the Foundation, who will set up an online election poll.
 
 ### Election Meeting
 
@@ -66,7 +67,8 @@ The election meeting is comprised of all members of the Leadership Council who w
     * If objections persist and the current proposal reaches an impasse, the facilitator should make a new proposal based on the discussion and feedback received.
     * Continue seeking consensus and addressing objections until a satisfactory candidate is selected.
         * Note that this process seeks to produce a candidate everyone is satisfied with and has no objections to. Avoid lengthy debates over preferences not related to objections or unmet requirements.
-* Document and announce the selection
+* Vote in the election poll
+* Announce the winners
 
 If for some reason the Council is unable to reach consensus on a group of
 candidates (for example, the Council finds blocking objections to all
