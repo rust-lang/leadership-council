@@ -91,5 +91,11 @@ Project Director role.
 
 One of the goals of this policy is to create opportunities for new leadership. We want to create an environment encouraging people to step up into power. Sometimes the confidence and faith of a group can give people the confidence they need to consent to being selected. Thus, we do not require people to ask the nominee for consent in the Pre-Meeting Coordination phase. We will, however, explicitly ask each candidate before considering them during the Election Meeting.
 
+## What if the election results differ from the consensus process?
+
+This technically can happen, if the Council members all express agreement on a set of candidates and then a majority of them vote differently. In this scenario the vote would be binding. However, it is also clear that the outcome does not reflect the expressed preferences of the Project.
+
+There are several possibilities for how to proceed in this case. As one possibility, the teams whose representatives voted against the consensus may decide their representative is no longer trustworthy to represent them and thus appoint a new Council Representative. The new Council could then choose to vote again to replace the Project Directors. Both Council Members and Project Directors can be replaced at any time, even if this does not line up with the usual term rotation.
+
 [^1]: During the nomination round, it is incredibly tempting to just go with the group energy, especially when you are speaking late in the Round. Writing down your nomination will encourage you to share your genuine nomination without getting swayed too soon (or not at all). So often, the best ideas are the ones that seem peripheral at first.
 [^2]: A round is a conversation format where everyone speaks, one by one, until everyone in the group has spoken. It starts with the facilitator asking a specific question or prompt to one person and then proceeds one by one until everyone has shared. In a round, people can share their initial reactions and reflections on what has been stated before them. It is a way to ensure that everyone's voice is heard equally, and it gives maximum input both from individuals and group wisdom.
