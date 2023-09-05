@@ -12,12 +12,15 @@ The Council was established by [RFC #3392][rfc]. The RFC describes the Council a
 
 For more information on *why* the Council exists, please refer to [the supplementary material to RFC #3392][motivation] that addresses this topic.
 
+The current set of policies that govern the Council are documented on the Forge in the [Leadership Council chapter][forge-council]. When governance policy changes are approved (via the RFC process), the Forge governance documentation should be updated to reflect those changes.
+
 If you'd like to participate in conversations about governance or otherwise interact with the Council in some form, you can find the Council on the [Rust Project's Zulip][zulip].
 
 [governance page]: https://www.rust-lang.org/governance/teams/leadership-council
 [rfc]: https://github.com/rust-lang/rfc-leadership-council/blob/63a867ee7a14599e864b4ccba3964a9f086ae400/text/3392-leadership-council.md
 [motivation]: https://github.com/rust-lang/rfc-leadership-council/blob/63a867ee7a14599e864b4ccba3964a9f086ae400/text/3392-leadership-council/motivation.md
 [zulip]: https://rust-lang.zulipchat.com/#narrow/stream/392734-council
+[forge-council]: https://forge.rust-lang.org/governance/council.html
 
 ## License
 
