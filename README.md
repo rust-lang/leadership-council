@@ -64,6 +64,13 @@ The GitHub issue tracker at <https://github.com/rust-lang/leadership-council/iss
 
 [`procedures/issues.md`]: https://github.com/rust-lang/leadership-council/blob/main/procedures/issues.md
 
+### Schedule tracking
+
+The calendar of upcoming events and deadlines is tracked in <https://hackmd.io/@rust-leadership-council/H1bb7yPs2>. More information about schedule tracking may be found in [`procedures/schedule.md`].
+
+[`procedures/schedule.md`]: https://github.com/rust-lang/leadership-council/blob/main/procedures/schedule.md
+
+
 ## License
 
 Content in this repository is licensed under the [MIT license](LICENSE-MIT) and the [Apache license 2.0](LICENSE-APACHE).
