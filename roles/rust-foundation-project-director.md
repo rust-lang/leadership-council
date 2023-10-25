@@ -19,7 +19,7 @@ Please refer to [Rust Foundation Director Roles & Responsibilities][director-rol
 - Meet with the Rust Foundation staff on a regular basis
 - Work with the Rust Leadership Council and Rust Foundation staff on refining the role of Project Director for the future
 
-## Qualities of a Council member (required skills)
+## Qualities of a Project Director (required skills)
 
 - Sufficient time and energy to dedicate to the needs of the Rust Foundation and the Rust Project.
 - An interest in helping with the topics of Project operations and Project governance.
