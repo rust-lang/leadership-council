@@ -29,6 +29,7 @@ There are several private streams reserved for topics that must be kept private.
 * `#council/private` — Private discussions among the council.
 * `#council-mods-private` — Private discussions involving both the council and moderation teams.
 * `#foundation-council-private` — Private discussions involving both the council and the Foundation.
+* `#council-project-directors/private` — Private discussions involving both the council and Foundation Project Directors.
 
 [zulip]: https://rust-lang.zulipchat.com/#narrow/stream/392734-council
 [private-decisions]: https://forge.rust-lang.org/governance/council.html#decisions-that-the-council-must-necessarily-make-privately
