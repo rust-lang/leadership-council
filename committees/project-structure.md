@@ -17,7 +17,7 @@ The goals of the committee are to address the following concerns, and to determi
     - Identify concerns around the current structural schemes.
     - Ensure all teams and other governance structures are "attached" to appropriate places in the structure. This includes working with teams to find appropriate homes, and ensuring such changes are ultimately reflected in the team metadata repository.
     - Re-organize the top-level teams. <https://github.com/rust-lang/leadership-council/issues/32>
-    - Find homes for teams in the launching-pad.
+    - Find homes for teams in the launching-pad, and determine the long-term role of the launching pad.
 - Collect and organize team charters. <https://github.com/rust-lang/leadership-council/issues/44>
     - Every team or group should have a charter that defines certain properties about them (their purview, mission, membership, etc.).
     - This is intended to feed back into the prior points, as it can be difficult in some cases to understand what the structure should be if we don't know what the purview or responsibilities of existing teams are.
@@ -25,7 +25,7 @@ The goals of the committee are to address the following concerns, and to determi
     - https://rust-lang.github.io/rfcs/2856-project-groups.html
     - https://github.com/rust-lang/wg-governance/blob/master/draft-rfcs/taxonomy.md
     - And possibly determine if different structures or terminology is needed.
-- Propose a policy around inactive teams/groups.
+- Propose a policy around inactive teams/groups (along with defining what "inactive" means).
 
 ## Delegated Responsibilities
 
@@ -34,6 +34,8 @@ No decision-making authority is given to this committee. It is only responsible 
 ## Duration
 
 This is a temporary committee, intended to last as long as needed to accomplish the goals listed above. The committee may be retired earlier if they decide to reduce the scope of the goals.
+
+After approximately six months, the Council should reevaluate and review the committee's progress, and if it is still working, or if it should wind down.
 
 ## Contact, Communication, and Workspace
 
