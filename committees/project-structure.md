@@ -45,7 +45,7 @@ After approximately six months, the Council should reevaluate and review the com
 
 ## Process
 
-- Coordination of the committee is primarily done on Zulip.
+- Coordination of the committee is primarily done in the [#council stream](https://rust-lang.zulipchat.com/#narrow/stream/392734-council) on Zulip.
 - Minutes will be recorded for any meetings the committee has.
 - All committee members must approve any final recommendations put forth to the Council.
 
