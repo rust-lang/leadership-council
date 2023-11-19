@@ -24,7 +24,7 @@ If you'd like to participate in conversations about governance or otherwise inte
 
 The Council may create additional streams for specific projects. Consult the stream list for any that start with "council".
 
-There are several private streams reserved for topics that must be kept private. See the [private decision guidelines][private-decision] for the types of discussions that may need to be private. Council members should avoid the private channels unless absolutely necessary. These channels are:
+There are several private streams reserved for topics that must be kept private. See the [private decision guidelines][private-decisions] for the types of discussions that may need to be private. Council members should avoid the private channels unless absolutely necessary. These channels are:
 
 * `#council/private` — Private discussions among the council.
 * `#council-mods-private` — Private discussions involving both the council and moderation teams.
