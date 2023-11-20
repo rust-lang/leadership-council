@@ -2,9 +2,11 @@
 
 ## Mission
 
-The *Rust Project Structure* committee is tasked with determining the "shape" of the Rust Project and its membership,
-and to make proposals to the Council on any recommended changes,
-and to produce documentation on clarifying the Project structure.
+The *Rust Project Structure* committee is tasked with:
+
+- Determining the "shape" of the Rust Project and its membership
+- Making proposals to the Council on any recommended changes
+- Producing documentation clarifying the Project structure
 
 ## Goals
 
