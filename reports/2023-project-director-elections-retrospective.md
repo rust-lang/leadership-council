@@ -12,9 +12,12 @@ These were chosen from a large pool of candidates that were nominated from acros
 
 Going forward, we'd recommend working to improve the following areas:
 
-1. **Candidate Eligibility and Requirements** - We had late-breaking questions around how "employment" is interpreted for the purposes of employment limits and around the legal requirements for candidates to disclose their names. At a minimum, we need to clearly document these requirements. We should also consider whether changes to these requirements are possible and desirable, as they significantly constrain who is able to serve in this role and makes it difficult to achieve other goals around diversity.
+1. **Candidate Eligibility and Requirements ([#66])** - We had late-breaking questions around how "employment" is interpreted for the purposes of employment limits and around the legal requirements for candidates to disclose their names. At a minimum, we need to clearly document these requirements. We should also consider whether changes to these requirements are possible and desirable, as they significantly constrain who is able to serve in this role and makes it difficult to achieve other goals around diversity.
 2. **Scheduling** - The schedule we followed was tight and didn't have a lot of room for slipping. It was complicated by the fact that several key milestones in the process lined up with RustConf and EuroRust.
-3. **Process Refinement** - There were some minor ways we deviated from the documented election process. For example, the document says each team would ask their nominees for consent before sending them to the Council, but instead the elections facilitator did this task. We should update the documentation to accurately reflect the process.
+3. **Process Refinement ([#67])** - There were some minor ways we deviated from the documented election process. For example, the document says each team would ask their nominees for consent before sending them to the Council, but instead the elections facilitator did this task. We should update the documentation to accurately reflect the process.
+
+[#66]: https://github.com/rust-lang/leadership-council/issues/66
+[#67]: https://github.com/rust-lang/leadership-council/issues/67
 
 ## Goal Evaluation
 
