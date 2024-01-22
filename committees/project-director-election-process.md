@@ -36,3 +36,10 @@ This committee is tasked to to establish the process for selecting Project Direc
 * Ryan Levick ([rylev](https://github.com/rust-lang/team/blob/master/people/rylev.toml))
 * Eric Holk ([eholk](https://github.com/rust-lang/team/blob/master/people/eholk.toml))
 * Jane Losare-Lusby ([yaahc](https://github.com/rust-lang/team/blob/master/people/yaahc.toml))
+
+## Artifacts
+
+Below is a list of documents that the committee has produced and maintains.
+
+* [Project Director Election Process](../policies/project-director-election-process.md)
+* [2023 Project Director Elections Retrospective](../reports/2023-project-director-elections-retrospective.md)
