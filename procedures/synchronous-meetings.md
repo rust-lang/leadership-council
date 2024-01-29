@@ -24,6 +24,20 @@ Detailed minutes must be taken of the meeting even if the meeting was otherwise 
 
 Minutes may be found [in the 'minutes' directory of the leadership Council team repository](../minutes).
 
+### Private minutes
+
+When there are sections of the meeting that involve topics that cannot be shared publicly,
+such as topics covered in the [private decisions list],
+those minutes must be stricken from the published notes, with a marker to indicate there was a private section.
+A copy of the notes containing the private section should be sent to the [`council@rust-lang.org`](mailto:council@rust-lang.org) mailing list by the [Librarians].
+Council members should not share the private contents with anyone without prior approval from the Council.
+
+Some private topics are only temporarily private, such as being deferred until some public announcement is made.
+In this case, the [Librarians] should strive to backfill the published notes once it is safe to include them.
+
+[private decisions list]: https://forge.rust-lang.org/governance/council.html#decisions-that-the-council-must-necessarily-make-privately
+[Librarians]: ../committees/librarians.md
+
 ## Recording
 
 All meetings are recorded, but consensus must be reached after the meeting on what do with the recording. The Council has no obligation to do anything with the recording. If after one week, consensus on what to do with the recording has not been reached, the default is to delete the recording. 
