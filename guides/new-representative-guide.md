@@ -55,3 +55,14 @@ An existing Council member will help add you to:
 
 [resources]: ../README.md#resources
 [team repo]: https://github.com/rust-lang/team/blob/master/teams/leadership-council.toml
+
+## Communicating with subteams
+
+An important task for a Representative is to communicate with the people you represent.
+This can be challenging if you represent a large number of teams, with people spanning many timezones, and using different communication tools.
+
+A good first step is to figure out the best way to communicate with your subteams, whether that be via email lists, chat tools like Zulip or Discord, or to drop in on synchronous meetings on video meeting tools like Jitsi.
+It would be good to introduce yourself, and to let people know how best to contact you.
+
+Over time, you will need to send information to the team members you represent, or to solicit feedback.
+The more you can communicate and be visible with your team members, the better you will be able to represent their needs to the Council and maintain connections across the project.
