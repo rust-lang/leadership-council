@@ -14,7 +14,8 @@ Representatives should read and be familiar with the [Policies governing the Lea
 
 ## Time Budget
 
-- 2-5 hours per week
+- 2-5 hours per week typically
+  - Sometimes more time can be needed, even up to 20 hours a week.
 
 ## Tasks / Activities / Responsibilities
 
