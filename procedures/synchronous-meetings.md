@@ -4,7 +4,7 @@ This documents procedures, norms, and logistics of the Council's sync meetings.
 
 ## Frequency
 
-The Council meets once a week.
+The Council meets once every other week.
 
 On the first meeting on or after the 14th of July, 2023, the Council will re-evaluate whether this frequency still makes sense or whether it should be changed.
 
@@ -20,7 +20,7 @@ If quorum is not reached, then the sync meeting is canceled and the agenda is go
 
 ## Minutes
 
-Detailed minutes must be taken of the meeting even if the meeting was otherwise recorded. The meeting minutes must be made public within one week after the meeting concludes (or a delay must be publicly announced and resolved as soon as possible). After the meeting, Council members must review the minutes to ensure that the minutes reflect their understanding of what occurred in the meeting. Once there is consent that the minutes are accurate, they are released for public viewing.
+Detailed minutes must be taken of the meeting even if the meeting was otherwise recorded. The meeting minutes must be made public before the following meeting (or a delay must be publicly announced and resolved as soon as possible). After the meeting, Council members must review the minutes to ensure that the minutes reflect their understanding of what occurred in the meeting. Once there is consent that the minutes are accurate, they are released for public viewing.
 
 Minutes may be found [in the 'minutes' directory of the leadership Council team repository](../minutes).
 
@@ -53,7 +53,7 @@ The meeting has the following assigned roles:
 
 ## Meeting Agenda
 
-The main agenda for the meeting must be made publicly available as a pull request (as the start of the documented minutes for the meeting) to the Council team repository at least 2 days before the meeting. All Council members may comment on, revise, add to or otherwise collaborate on ensuring the agenda is in the right shape.
+The main agenda for the meeting must be made publicly available within the [HackMD agenda document][agenda] at least 2 days before the meeting. All Council members may comment on, revise, add to or otherwise collaborate on ensuring the agenda is in the right shape.
 
 The agenda should contain the following for each agenda item:
 
@@ -68,6 +68,8 @@ The agenda should contain the following for each agenda item:
 - An optional list of existing concerns that can be used to identify stakeholders and bring concerns to the attention of everyone before the meeting.
 
 The agenda is laid out in temporal order which is determined largely by the urgency of each topic (most urgent comes first). However, this is not a hard rule as, for example, it might make sense to keep one large discussion (even if it is the most urgent) for last in the meeting so that it can simply fill the entire remainder of the meeting time.
+
+[agenda]: https://hackmd.io/@rust-leadership-council/Byl1TfOO2
 
 ### Meeting structure
 
