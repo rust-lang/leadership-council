@@ -29,6 +29,7 @@ Representatives should read and be familiar with the [Policies governing the Lea
 - Coordinate Project-wide changes to teams, structures, or processes.
 - Make decisions on urgent matters when necessary.
 - Coordinate with the Foundation and the Project Directors to convey the needs of the Project and how to best use the resources of the Foundation.
+- Elect Project Directors (annually).
 
 ## Qualities of a Council member (required skills)
 
