@@ -1,8 +1,8 @@
 # Representative selection process
 
-This document is a guide for the selection of Representatives for the Leadership Council. This gives recommendations for how a top-level team should select their Representative. It is not a requirement that teams follow this guide, and may choose their own process.
+This document is a guide for the selection of Representatives for the Leadership Council. This gives recommendations for how a top-level team should select their Representative. It is not a requirement that teams follow this guide; teams may choose their own process.
 
-This process is inspired by the [Sociacracy selection process](https://www.sociocracyforall.org/selection-process/).
+This process is inspired by the [Sociocracy selection process](https://www.sociocracyforall.org/selection-process/).
 
 ## Recommendations on candidate choice
 
@@ -10,7 +10,7 @@ See [candidate criteria] for guidance for choosing a candidate. See [representat
 
 Many of the same qualities that make a good Council representative also make a good team lead. However, we strongly recommend against individuals taking on both the role of team lead and Council representative simultaneously. In the past, our experience has shown that it is extremely difficult to balance the demands of both roles effectively. For teams with shared leadership responsibilities (e.g. co-leads), assigning one co-lead as the representative may be fine if the other co-lead(s) are prepared to take on more of the team leadership responsibilities. However, for teams with a single lead, we recommend either establishing multiple clearly delineated team leadership roles or selecting a different Council representative.
 
-Remember that Council representatives can be subteam members, if a subteam member has the requisite scope and skillset.
+Remember that Council representatives can be members of a subteam[^subteam], if a member has the requisite scope and skillset.
 
 It is recommended to rotate Representatives when possible. The extra responsibilities of being a Representative *and* participating as a team member can push people closer to burnout. It is also important to spread the experience across more people, which can help bring new ideas and perspectives, and help bring a better understanding of how the Rust Project works to more people.
 
@@ -44,7 +44,7 @@ Representative selection should ideally be done by consensus, not by vote or sim
     - Continue the process of seeking consensus and addressing objections until a satisfactory candidate is selected.
         - Note that this process seeks to produce a candidate everyone is satisfied with and has no objections to. Avoid lengthy debates over preferences that do not pertain to objections or unmet requirements.
 7. Report the choice to the Leadership Council.
-    - The Council is responsible for validating that the new Council composition does not exceed the [affiliation limits]. If there is an exceedance, see the given link for the process of restarting the selection process.
+    - The Council is responsible for validating that the new Council composition does not exceed the [affiliation limits]. If there is an exceedance, see the affiliation limits link for the process of restarting the selection process.
 
 [affiliation limits]: https://forge.rust-lang.org/governance/council.html#limits-on-representatives-from-a-single-companyentity
 
@@ -58,3 +58,5 @@ It is recommended to give the selection process roughly four to six weeks to com
 3. Week 3: Collect any objections to the nominee, and attempt to resolve them.
 4. Week 4: Report your final choice to the Council.
     - This may require collaboration to resolve any affiliation limits.
+
+[^subteam]: Throughout this document, “teams” includes subteams, working groups, project groups, initiatives, and all other forms of official collaboration structures within the Project. “Subteams” includes all forms of collaboration structures that report up through a team.
