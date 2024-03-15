@@ -1,6 +1,6 @@
 # Representative selection process
 
-This document is a guide for the selection of Representatives for the Leadership Council. This gives recommendations for how a top-level team should select their Representative. It is not a requirement that teams follow this guide; teams may choose their own process.
+This document is a guide for the selection of Representatives for the Leadership Council. This gives recommendations for how a top-level team should select their Representative. It is not a requirement that teams follow this guide; top-level teams may choose their own process.
 
 This process is inspired by the [Sociocracy selection process](https://www.sociocracyforall.org/selection-process/).
 
