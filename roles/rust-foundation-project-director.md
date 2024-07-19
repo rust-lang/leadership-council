@@ -38,12 +38,14 @@ Among the mechanisms the Board has to do this is hiring and overseeing the Execu
 There are requirements and eligibility criteria Project Directors must meet.
 These are set by the Rust Project, the [Foundation bylaws], the laws of the State of Delaware, and the laws of the United States of America.
 
+- Project directors must be members of the Rust Project in good standing.
+  Among other things, this means they must not be currently under any moderation sanction.
 - Project directors must disclose their name on the Foundation's IRS Form 990, which is a public document. For an example, see [the Foundations 2021 filing][form-990].
 - A candidate may not be elected as a Project Director if they are employed by a corporate member of the Foundation that already employs another Project Director.
   This comes from [Section 4.3(g)] of the Foundation bylaws.
 
-  In the past there has been confusion about the definition of employment.
   Thus far the Project and Foundation have used a fairly broad definition that includes contracting relationships.
+  This is in line with Delaware corporate law, where the key element of how "employment" is defined is that an individual is engaged to carry out work or services for the company.
 - Project Directors must disclose any conflicts of interest to the Foundation.
   These disclosures are kept confidential by the Foundation and are not shared with the public.
 
@@ -54,4 +56,4 @@ These are set by the Rust Project, the [Foundation bylaws], the laws of the Stat
 [director-role]: https://foundation.rust-lang.org/static/board-director-role-description.pdf
 [Foundation bylaws]: https://foundation.rust-lang.org/policies/bylaws/#article-iv%3A-directors
 [form-990]: https://foundation.rust-lang.org/static/publications/financial-filings/form-990-2021.pdf
-[Section 4.3(g)]: https://foundation.rust-lang.org/policies/bylaws/#section-4.3-nomination%2C-election-and-term-of-office-of-directors:~:text=No%20person%20may%20be%20elected%20Project%20Director%20if%2C%20at%20the%20time%20of%20election%2C%20that%20person%20is%20employed%20by%20a%20Corporate%20Member%20and%20that%20Corporate%20Member%20or%20any%20Related%20Company%20already%20employs%20a%20Project%20Director.
+[Section 4.3(g)]: https://foundation.rust-lang.org/policies/bylaws/#section-4.3-nomination%2C-election-and-term-of-office-of-directors
