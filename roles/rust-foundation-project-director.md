@@ -41,7 +41,7 @@ These are set by the Rust Project, the [Foundation bylaws], the laws of the Stat
 - Project directors must be members of the Rust Project in good standing.
   Among other things, this means they must not be currently under any moderation sanction.
 - Project directors must disclose their name on the Foundation's IRS Form 990, which is a public document. For an example, see [the Foundations 2021 filing][form-990].
-- A candidate may not be elected as a Project Director if they are employed by a corporate member of the Foundation that already employs another Project Director.
+- No two project directors can be employed by the same corporate member of the Foundation.
   This comes from [Section 4.3(g)] of the Foundation bylaws.
 
   Thus far the Project and Foundation have used a fairly broad definition that includes contracting relationships.
