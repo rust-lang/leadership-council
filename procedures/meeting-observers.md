@@ -30,6 +30,12 @@ Intentional disruption of the meeting will result in an observer being kicked fr
 
 It is expected that, by default, those joining as meeting observers will follow the above guidelines. However, there may be times where the council will invite guests to participate beyond the role and guidelines of meeting observers. This may happen ahead of the meeting time or, at the discretion of the meeting participants, during the meeting itself. Under these circumstances, adherence to meeting observer guidelines is not expected.
 
+### Discretion
+
+Observers may share what they observe in the meeting.
+They must use discretion, recognizing that sensitive issues may be discussed even in public sessions.
+It should be made clear that the things they share are their own observations and not official statements of or on behalf of the council.
+
 ## Alternatives
 
 ### Extending meeting observers to non-Project members
