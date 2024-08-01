@@ -4,10 +4,12 @@ Please refer to [Rust Foundation Director Roles & Responsibilities][director-rol
 
 Project Directors are members of the Rust Foundation Board of Directors.
 The Board of Directors is the governing body of the Rust Foundation, which is incorporated as a 501(c)(6) organization in the State of Delaware, United States of America.
-As such, the Project Director role carries with it legal responsibilities to act on behalf of and in support of the Foundation.
+As such, the Project Director role carries with it legal responsibilities to act on behalf of and in support of the Foundation, as well as some legal liability for the Foundation's actions[^liability].
 
 The Board of Directors sets the direction of the Rust Foundation.
 Among the mechanisms the Board has to do this is hiring and overseeing the Executive Director, who is responsible for the day-to-day operations of the Foundation.
+
+[^liability]: While this sounds daunting, the Foundation has insurance to protect the Directors from legal action brought against the faction. As long as Directors carry out their board duties in good faith, to the best of the abilities, and with the best interests of the Foundation in mind, they are protected by this insurance.
 
 ## Goals
 
