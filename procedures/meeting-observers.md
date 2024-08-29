@@ -34,7 +34,11 @@ It is expected that, by default, those joining as meeting observers will follow 
 
 Observers may share what they observe in the meeting.
 They must use discretion, recognizing that sensitive issues may be discussed even in public sessions.
+People in meetings are speaking freely and words taken out of context can lead to misunderstandings.
 It should be made clear that the things they share are their own observations and not official statements of or on behalf of the council.
+Observers might want to consider using the [Chatham House Rule] (that is, summarizing what is said without attributing it to a specific person) when sharing meeting observations.
+
+[Chatham House Rule]: https://en.wikipedia.org/wiki/Chatham_House_Rule
 
 ## Alternatives
 
