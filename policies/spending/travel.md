@@ -11,7 +11,7 @@ The following are guidelines for approval of an application:
 - Up to $2000 per person (per year) (as long as budget remains).
 - You don't have an employer that can pay for you.
 - You are an active member of the Rust project.
-- Your travel costs are kept to a reasonable minimum (i.e. fly economy class, no five star hotels, etc.).
+- Your travel costs are kept reasonable (i.e. fly economy class, no five star hotels, etc.).
 
 The usual Foundation due diligence on grantees will also be required to ensure compliance with US sanctions, proper record-keeping, anti-fraud measures, etc.
 
