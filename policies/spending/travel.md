@@ -2,7 +2,7 @@
 
 The Leadership Council of the Rust Project has allocated up to $75,000 USD to be spent over the course of 2024 supporting Members of the Rust Project in attending Rust-related events through the awarding of Travel Grants. These grants are intended to cover travel, hotel, and event tickets for those who otherwise cannot afford to attend. This document sets out the policy for what is allowed for these grants, and the process for the approval of these applications.
 
-Note that this policy is currently experimental. These guidelines may change at any time, as we are currently evaluating the effectiveness of this policy. As we gain experience, we hope to extend this as an ongoing program in the future.
+Note that this policy is currently experimental (see <https://github.com/rust-lang/leadership-council/issues/97>). These guidelines may change at any time, as we are currently evaluating the effectiveness of this policy. As we gain experience, we hope to extend this as an ongoing program in the future.
 
 ## Approval guidelines
 
