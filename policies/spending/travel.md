@@ -31,4 +31,6 @@ To apply, send an email to <mailto:grants@rustfoundation.org> with an estimation
 
 ## Transparency
 
-As with all the Foundation’s grants programs, the Foundation will have to maintain complete and accurate records of its grantees in order to report to the IRS. Aggregate statistics on the number of travel grants awarded, the number of recipients, and the number of events attended as a result will also be published as part of the Foundation’s annual report. The list of recipients of travel grants and the amounts received will be available on request.
+As with all the Foundation’s grants programs, the Foundation will have to maintain complete and accurate records of its grantees in order to report to the [IRS]. Aggregate statistics on the number of travel grants awarded, the number of recipients, and the number of events attended as a result will also be published as part of the Foundation’s annual report. The list of recipients of travel grants and the amounts received will be available on request.
+
+[IRS]: https://www.irs.gov/
