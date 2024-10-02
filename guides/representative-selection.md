@@ -43,7 +43,8 @@ Representative selection should ideally be done by consensus, not by vote or sim
     - If objections persist and the current proposal reaches an impasse, the facilitator should make a new proposal based on the discussion and feedback received.
     - Continue the process of seeking consensus and addressing objections until a satisfactory candidate is selected.
         - Note that this process seeks to produce a candidate everyone is satisfied with and has no objections to. Avoid lengthy debates over preferences that do not pertain to objections or unmet requirements.
-7. Report the choice to the Leadership Council.
+7. If the Council representative is changing, remember to notify the outgoing Council representative respectfully, in advance of the public report to the Council. This is a good time to prepare a thank-you post with appreciation for the outgoing representative's work.
+8. Report the choice to the Leadership Council.
     - The Council is responsible for validating that the new Council composition does not exceed the [affiliation limits]. If there is an exceedance, see the affiliation limits link for the process of restarting the selection process.
 
 [affiliation limits]: https://forge.rust-lang.org/governance/council.html#limits-on-representatives-from-a-single-companyentity
