@@ -42,7 +42,7 @@ The Council has synchronous meetings to discuss topics and make decisions. See [
 
 ### HackMD
 
-The Council has a public HackMD workspace at <https://hackmd.io/team/rust-leadership-council>. This workspace provides a home for Council members to collaborate and create draft documents. More permanent documentation should go in this repository or the Rust Forge.
+The Council has a public HackMD workspace at <https://hackmd.io/@rust-leadership-council> (Council members can manage the workspace at <https://hackmd.io/team/rust-leadership-council>). This workspace provides a home for Council members to collaborate and create draft documents. More permanent documentation should go in this repository or the Rust Forge.
 
 Since this HackMD workspace is using the free service, it does not support private documents. If you need to draft a private document, create it in your personal workspace and use private channels to share the link.
 
