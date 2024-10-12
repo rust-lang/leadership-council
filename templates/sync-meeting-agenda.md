@@ -2,7 +2,6 @@
 
 - Check-in
 - Assign roles
-- Turn on recording
 - Announcements
     - Highlight any upcoming deadlines that need attention <https://hackmd.io/@rust-leadership-council/H1bb7yPs2>
 - Consent to agenda
@@ -11,5 +10,4 @@
     - **Proposal**:  
     - **Previous discussion**:
 - Call for clarifications
-- Turn off recording
 - Check-out

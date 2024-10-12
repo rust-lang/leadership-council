@@ -7,7 +7,7 @@ There has been some interest in people joining meetings in a purely observationa
 ## Considerations
 
 * Unless otherwise necessary, more transparency and openness is usually better
-    * Separate processes (such as releasing minutes or recordings) may fulfill this, but are out of scope for this proposal
+    * Separate processes (such as releasing minutes) may fulfill this, but are out of scope for this proposal
 * Any transparency and openness should not negatively affect council processes and procedures, within reason
     * Public meetings (to any extent) do have the potential for disruption, either through intentional means (harassment of council members) or through unintentional means (less comfort in being able to speak candidly in some situations)
     * Some overhead for managing access to meetings is expected
