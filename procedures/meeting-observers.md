@@ -24,7 +24,9 @@ As an initial iteration, any Project member (as currently defined by anyone list
 
 When a meeting is scheduled, those who have requested to observe that meeting will get a calendar invite, in addition to the council. A minutes link will not be shared (since it may contain private information), but a public agenda link may be.
 
-During the meeting, observers should not speak unless specifically invited to do so by the facilitator, and they should mute their audio and video. Observers may send chat messages, and are encouraged to do so if they have important context to add that may be helpful to the council, but are also asked to be judicious about such messages so as to avoid distractions. During check-ins and check-outs, observers are invited to share their experiences in chat. Observers should not record or screenshot the meeting. If a meeting has a private session, then observers will either leave or be kicked.
+During the meeting, observers should not speak unless specifically invited to do so by the facilitator, and they should mute their audio and video. Observers may send chat messages, and are encouraged to do so if they have important context to add that may be helpful to the council, but are also asked to be judicious about such messages so as to avoid distractions. Please note in particular our [meeting decorum](synchronous-meetings.md#meeting-decorum) policy that discourages side conversations in chat.
+
+During check-ins and check-outs, observers are invited to share their experiences in chat. Observers should not record or screenshot the meeting. If a meeting has a private session, then observers will either leave or be kicked.
 
 Intentional disruption of the meeting will result in an observer being kicked from the meeting and may result in the observer being barred from future meetings.
 
