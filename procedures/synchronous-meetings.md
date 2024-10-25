@@ -20,7 +20,7 @@ If quorum is not reached, then the sync meeting is canceled and the agenda is go
 
 ## Minutes
 
-Detailed minutes must be taken of the meeting even if the meeting was otherwise recorded. The meeting minutes must be made public before the following meeting (or a delay must be publicly announced and resolved as soon as possible). After the meeting, Council members must review the minutes to ensure that the minutes reflect their understanding of what occurred in the meeting. Once there is consent that the minutes are accurate, they are released for public viewing.
+Detailed minutes must be taken of the meeting. The meeting minutes must be made public before the following meeting (or a delay must be publicly announced and resolved as soon as possible). After the meeting, Council members must review the minutes to ensure that the minutes reflect their understanding of what occurred in the meeting. Once there is consent that the minutes are accurate, they are released for public viewing.
 
 Minutes may be found [in the 'minutes' directory of the leadership Council team repository](../minutes).
 
@@ -37,12 +37,6 @@ In this case, the [Librarians] should strive to backfill the published notes onc
 
 [private decisions list]: https://forge.rust-lang.org/governance/council.html#decisions-that-the-council-must-necessarily-make-privately
 [Librarians]: ../committees/librarians.md
-
-## Recording
-
-All meetings are recorded, but consensus must be reached after the meeting on what do with the recording. The Council has no obligation to do anything with the recording. If after one week, consensus on what to do with the recording has not been reached, the default is to delete the recording. 
-
-Recordings are usually used to ensure that the notes are correct and to optionally create automatic transcripts. Recordings can also *optionally* be made public, but only with consent of all of those present on the recording.
 
 ## Meeting roles
 
@@ -79,16 +73,12 @@ In addition to the main agenda items, every meeting has the following structure:
   - The check-in is a chance for Council members to connect on a human level and share how they're doing outside of the context of the meeting. Examples of things shared in the check-in include: "I'm not feeling well because of my allergies, and so I'm not in a good headspace", "My partner and I just adopted a cat so I'm doing great!", and "I'm doing fine - nothing to report".
 - **Assigning roles**
   - The Council members decide by consensus who will fill the roles of facilitator and note taker.
-- **Turn on recording**
-  - Recording is started
 - **Consent to the agenda**
   - This is a chance for last minute changes to the agenda to be made through consensus and to ensure everyone is on the same page as far as what will be discussed. Items may be added or struck from the agenda through consensus though it is advised that additions to the agenda be small in scope (to ensure that everyone involved has had enough time to prepare for whatever will be discussed) and that additions only be accepted if consent can be reached quickly (to ensure the meeting starts in a timely manner).
 - **Main agenda**
   - The main topics of the meeting which have just been consented to
 - **Clarifications**
   - A call is made for any last minute clarifications, questions, requests for additional action.
-- **Turn off recording**
-  - The recording is stopped
 - **Check-out**
   - This is a chance for Council members to express how they felt the meeting went including areas for improvement, particular highlights and kudos, or any other relevant meta aspects of the meeting.
 
