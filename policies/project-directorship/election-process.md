@@ -67,8 +67,13 @@ The election meeting is comprised of all members of the Leadership Council who w
     * If objections persist and the current proposal reaches an impasse, the facilitator should make a new proposal based on the discussion and feedback received.
     * Continue seeking consensus and addressing objections until a satisfactory candidate is selected.
         * Note that this process seeks to produce a candidate everyone is satisfied with and has no objections to. Avoid lengthy debates over preferences not related to objections or unmet requirements.
-* Vote in the election poll
-* Announce the winners
+* Each council member will privately vote in the election poll set up by the Foundation.
+* The Foundation will handle:
+    * Verifying eligibility.
+    * Onboarding new directors.
+    * Announcing the new directors ([example](https://foundation.rust-lang.org/news/announcing-the-rust-foundation-s-newest-project-director-carol-nichols/)).
+* A council member should update the private Zulip channel membership (`council-project-directors/private`).
+* A council member should arrange to update the director Zulip group `@foundation-project-directors`.
 
 If for some reason the Council is unable to reach consensus on a group of
 candidates (for example, the Council finds blocking objections to all
