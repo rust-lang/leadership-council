@@ -26,7 +26,7 @@ Among the mechanisms the Board has to do this is hiring and overseeing the Execu
 
 ## Tasks / Activities / Responsibilities
 
-- [Abide by the Roles & Responsibilites of Foundation Board Members](https://foundation.rust-lang.org/static/board-director-role-description.pdf)
+- [Abide by the Roles & Responsibilites of Foundation Board Members][director-role]
 - Attend Rust Foundation board meetings
 - Help prepare and present the "Project Director Update" for each board meeting
 - Meet with the Rust Foundation staff on a regular basis
@@ -46,7 +46,7 @@ These are set by the Rust Project, the [Foundation bylaws], the laws of the Stat
 
 - Project directors must be members of the Rust Project in good standing.
   Among other things, this means they must not be currently under any moderation sanction.
-- Project directors must disclose their name on the Foundation's IRS Form 990, which is a public document. For an example, see [the Foundations 2021 filing][form-990].
+- Project directors must disclose their name on the Foundation's IRS Form 990, which is a public document. For an example, see [the Foundations 2023 filing][form-990].
 - No two project directors can be employed by the same corporate member of the Foundation.
   This comes from [Section 4.3(g)] of the Foundation bylaws. See [Employment interpretation](#employment-interpretation).
 - Project Directors must disclose any conflicts of interest to the Foundation.
@@ -68,5 +68,5 @@ Employment information is disclosed to the Leadership Council. When elected, the
 
 [director-role]: https://rustfoundation.org/wp-content/uploads/2023/12/board-director-role-description.pdf
 [Foundation bylaws]: https://foundation.rust-lang.org/policies/bylaws/#article-iv%3A-directors
-[form-990]: https://foundation.rust-lang.org/static/publications/financial-filings/form-990-2021.pdf
+[form-990]: https://rustfoundation.org/resource/form-990-2023/
 [Section 4.3(g)]: https://foundation.rust-lang.org/policies/bylaws/#section-4.3-nomination%2C-election-and-term-of-office-of-directors
