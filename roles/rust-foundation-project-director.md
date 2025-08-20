@@ -9,7 +9,7 @@ As such, the Project Director role carries with it legal responsibilities to act
 The Board of Directors sets the direction of the Rust Foundation.
 Among the mechanisms the Board has to do this is hiring and overseeing the Executive Director, who is responsible for the day-to-day operations of the Foundation.
 
-[^liability]: While this sounds daunting, the Foundation has insurance to protect the Directors from legal action brought against the faction. As long as Directors carry out their board duties in good faith, to the best of the abilities, and with the best interests of the Foundation in mind, they are protected by this insurance.
+[^liability]: While this sounds daunting, the Foundation has insurance to protect the Directors from legal action brought against the faction. As long as Directors carry out their board duties in good faith, to the best of their abilities, and with the best interests of the Foundation in mind, they are protected by this insurance.
 
 ## Goals
 
