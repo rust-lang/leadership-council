@@ -66,7 +66,7 @@ If you have contracts that include discretion or nondisclosure agreements, and t
 
 Employment information is disclosed to the Leadership Council. When elected, the Foundation will ask new PDs to register their financial interests and sign a conflict of interest policy. Wherever there is a conflict of interest in a board meeting, conflicted individuals will be required to step out of that conversation. It would be noted in the minutes that an individual stepped out due to a conflict, but it is not necessary to state what that conflict is. We do not publish PDs affiliations on the website.
 
-[director-role]: https://foundation.rust-lang.org/static/board-director-role-description.pdf
+[director-role]: https://rustfoundation.org/wp-content/uploads/2023/12/board-director-role-description.pdf
 [Foundation bylaws]: https://foundation.rust-lang.org/policies/bylaws/#article-iv%3A-directors
 [form-990]: https://foundation.rust-lang.org/static/publications/financial-filings/form-990-2021.pdf
 [Section 4.3(g)]: https://foundation.rust-lang.org/policies/bylaws/#section-4.3-nomination%2C-election-and-term-of-office-of-directors
