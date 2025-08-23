@@ -14,7 +14,7 @@ Why do we care about keeping membership up to date?
 
 ## Identification
 
-Once a year, the Council will ensure communication is sent out ot every
+Once a year, the Council will ensure communication is sent out to every
 non-alumni person in rust-lang/team. This may be for some other event (e.g.,
 all-hands) or if necessary dedicated to this purpose. This communication will,
 in addition to any other questions, inform respondents what teams they are
