@@ -18,7 +18,7 @@ Once a year, the Council will ensure communication is sent out to every
 non-alumni person in rust-lang/team. This communication will, in addition to
 any other questions, inform respondents what teams they are *currently listed*
 as a part of. The survey will invite a response of "Please remove me from
-<blank> teams regardless of any other responses."
+$TEAMS teams regardless of any other responses."
 
 This mechanism should help identify those who are still relatively active
 members, but may not have realized they are a part of some team. The Council
