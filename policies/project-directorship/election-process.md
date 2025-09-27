@@ -75,7 +75,7 @@ The election meeting is comprised of all members of the Leadership Council who w
 * A council member should help with:
     * Update the private Zulip channel membership (`council-project-directors/private`).
     * Update the director Zulip group `@foundation-project-directors`.
-    * Update the [`foundation-board-project-directors`](https://github.com/rust-lang/team/blob/master/teams/foundation-board-project-directors.toml) marker team.
+    * Update the [`foundation-board-project-directors`](https://github.com/rust-lang/team/blob/master/teams/foundation-board-project-directors.toml) team.
 
 If for some reason the Council is unable to reach consensus on a group of
 candidates (for example, the Council finds blocking objections to all
