@@ -12,7 +12,7 @@ There has been some interest in people joining meetings in a purely observationa
     * Public meetings (to any extent) do have the potential for disruption, either through intentional means (harassment of council members) or through unintentional means (less comfort in being able to speak candidly in some situations)
     * Some overhead for managing access to meetings is expected
 * There will be portions of some meetings that require attendance of only council members, or potentially some set of invited people
-* It may be difficult draw a line between private and public meetings that most satisfies the above points
+* It may be difficult to draw a line between private and public meetings that most satisfies the above points
 
 ## Process for meeting observers
 
@@ -24,7 +24,7 @@ As an initial iteration, any Project member (as currently defined by anyone list
 
 When a meeting is scheduled, those who have requested to observe that meeting will get a calendar invite, in addition to the council. A minutes link will not be shared (since it may contain private information), but a public agenda link may be.
 
-During the meeting, observers should be mostly non-interactive, unless otherwise noted: no chat messages should be sent, and video and audio should be off. However, there may be times, like during check-ins and check-outs, where observers are encouraged to share their experience in chat. Observers should not record or screenshot the meeting. If a meeting has a private session, then observers will either leave or be kicked.
+During the meeting, observers should be mostly non-interactive and, unless otherwise noted, no chat messages should be sent, and video and audio should be off. However, there may be times, like during check-ins and check-outs, where observers are encouraged to share their experience in chat. Observers should not record or screenshot the meeting. If a meeting has a private session, then observers will either leave or be kicked.
 
 Intentional disruption of the meeting will result in an observer being kicked from the meeting and may result in the observer being barred from future meetings.
 
@@ -34,7 +34,7 @@ It is expected that, by default, those joining as meeting observers will follow 
 
 Observers may share what they observe in the meeting.
 They must use discretion, recognizing that sensitive issues may be discussed even in public sessions.
-People in meetings are speaking freely and words taken out of context can lead to misunderstandings.
+People in meetings are speaking freely, and words taken out of context can lead to misunderstandings.
 It should be made clear that the things they share are their own observations and not official statements of or on behalf of the council.
 
 ## Alternatives
