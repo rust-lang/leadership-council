@@ -15,6 +15,8 @@ The *Rust Foundation Maintainer Fund Design* committee is tasked with preparing 
 * Share the proposal publicly, gather and integrate feedback.
 * Drive the RFC towards being accepted.
 
+We want to stress that coming up with an initial design for the Rust Foundation Maintainer Fund is rather timely, we should ideally have something ready by Q1 2026. We might also be unable to come up with the perfect design on the first try. So we should focus on getting something reasonable set up, so that the Fund can bootstrap itself, and then gradually improve it over time.
+
 An explicit non-goal is to prepare a general strategy for distributing funds for supporting maintainers from other sources than the Rust Foundation Maintainer Fund (that can be follow-up work).
 
 ## Delegated Responsibilities
