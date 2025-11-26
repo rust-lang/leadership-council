@@ -1,0 +1,49 @@
+# Rust Foundation Maintainer Fund Design Committee
+
+## Mission
+
+The *Rust Foundation Maintainer Fund Design* committee is tasked with preparing an RFC that will define how will the funds from the [Rust Foundation Maintainer Fund](https://rustfoundation.org/media/announcing-the-rust-foundation-maintainers-fund/) be used to support Rust Project maintainers.
+
+## Goals
+
+* Gather initial input from stakeholders related to the fund (such as Rust Project maintainers and the Rust Foundation itself).
+* Prepare an RFC proposal that will describe how will the Fund work. Specifically, it should answer questions like:
+    * Which maintainers are eligible for funding from the Fund?
+    * How should we choose the maintainers to fund?
+    * Who will choose the maintainers to fund?
+    * How will we evaluate the work of the funded maintainers?
+* Share the proposal publicly, gather and integrate feedback.
+* Drive the RFC towards being accepted.
+
+An explicit non-goal is to prepare a general strategy for distributing funds for supporting maintainers from other sources than the Rust Foundation Maintainer Fund (that can be follow-up work).
+
+## Delegated Responsibilities
+
+No special decision-making authority is given to this committee. Notably, the committee itself will **not** be responsible for actually deciding which maintainers should be funded. Its goal is to prepare a set of guidelines that will describe how will the money from the Fund be used, who will actually make the decision who to fund, etc.
+
+The members of the committee will be given access to the results of the Rust Project Contributor Survey, as those will be useful for determining the rules of the fund.
+
+## Duration
+
+* Temporary
+* This committee will exist until the RFC for the Rust Foundation Maintainer Fund lands.
+  * We estimate that this might happen during Q1 2026.
+
+## Contact, Communication, and Workspace
+
+- **Zulip Channel**: https://rust-lang.zulipchat.com/#narrow/channel/548261-funding
+
+TODO: do we want to create a GitHub repo or lead all communication on Zulip?
+
+## Process
+
+- Coordination of the committee is primarily done in the [#funding channel](https://rust-lang.zulipchat.com/#narrow/channel/548261-funding) on Zulip.
+- Most meetings should happen in public on Zulip.
+  - In case there are any synchronous call meetings, minutes will be recorded for them.
+- Since the goal of the committee is to produce an RFC, it does not need to bring decisions to the council, those will be dealt with on the RFC itself.
+
+## Members
+
+- [Lori Lorusso](https://rust-lang.org/governance/people/LoriLorusso)
+  - As a representative of the Rust Foundation, which manages the Fund.
+- TODO
