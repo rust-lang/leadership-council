@@ -52,5 +52,4 @@ The process for how specific systems are managed should be recorded in this docu
 
 ## Members
 
-- [Eric Huss](https://github.com/rust-lang/team/blob/master/people/ehuss.toml)
-- [Ryan Levick](https://github.com/rust-lang/team/blob/master/people/rylev.toml)
+See https://github.com/rust-lang/team/blob/main/teams/council-librarians.toml
