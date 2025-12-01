@@ -21,7 +21,7 @@ In addition to their responsibilities to the Rust Foundation, Project Directors 
 
 ## Time Budget
 
-- 2-5 hours per week
+- 4-8 hours per week
 
 ## Term Length
 
