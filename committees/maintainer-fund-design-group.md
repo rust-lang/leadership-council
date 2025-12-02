@@ -35,7 +35,6 @@ The members of the committee will be given access to the results of the Rust Pro
 
 - **Zulip Channel**: https://rust-lang.zulipchat.com/#narrow/channel/548261-funding
 
-TODO: do we want to create a GitHub repo or lead all communication on Zulip?
 
 ## Process
 
