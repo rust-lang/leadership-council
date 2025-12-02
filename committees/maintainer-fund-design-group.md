@@ -15,6 +15,7 @@ The *Rust Foundation Maintainer Fund Design* committee is tasked with preparing 
         * What is an acceptable quality and quantity of reporting from the maintainers?
         * What does the Foundation need at minimum?
         * What would be useful for obtaining more funding in the future?
+        * How do we balance the need for reporting to obtain more funds, the overhead of reporting, and the desire to not allow these funds to be (or be perceived as) directed/restricted based on the desires of funders?
 * Share the proposal publicly, gather and integrate feedback.
 * Drive the RFC towards being accepted.
 
