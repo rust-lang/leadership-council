@@ -48,4 +48,8 @@ TODO: do we want to create a GitHub repo or lead all communication on Zulip?
 
 - [Lori Lorusso](https://rust-lang.org/governance/people/LoriLorusso)
   - As a representative of the Rust Foundation, which manages the Fund.
-- TODO
+- [Jack Huey](https://rust-lang.org/governance/people/jackh726/)
+- [lcnr](https://rust-lang.org/governance/people/lcnr)
+- [kobzol](https://rust-lang.org/governance/people/Kobzol)
+- [tmandry](https://rust-lang.org/governance/people/tmandry)
+- [Josh Triplett](https://rust-lang.org/governance/people/joshtriplett)
