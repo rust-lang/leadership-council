@@ -40,7 +40,7 @@ The members of the committee will be given access to the results of the Rust Pro
 
 - Coordination of the committee is primarily done in the [#funding channel](https://rust-lang.zulipchat.com/#narrow/channel/548261-funding) on Zulip.
 - Most meetings should happen in public on Zulip.
-  - In case there are any synchronous call meetings, minutes will be recorded for them.
+  - In case there are any synchronous public call meetings, minutes will be recorded for them.
 - Talk to the Foundation, the Council and Rust community members to ensure that the final RFC is not surprising to anyone and that we have consensus on it as a Project.
 
 ## Members
