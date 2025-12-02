@@ -6,7 +6,7 @@ The *Rust Foundation Maintainer Fund Design* committee is tasked with preparing 
 
 ## Goals
 
-* Gather initial input from stakeholders related to the fund (such as Rust Project maintainers and the Rust Foundation itself).
+* Gather initial input from stakeholders related to the fund (such as Rust Project maintainers, Project teams and team leads, the Leadership Council, potential funders, and the Rust Foundation itself).
 * Prepare an RFC proposal that will describe how will the Fund work. Specifically, it should answer questions like:
     * Which maintainers are eligible for funding from the Fund?
     * How should we choose the maintainers to fund?
