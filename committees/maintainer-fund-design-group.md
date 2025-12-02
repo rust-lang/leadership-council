@@ -12,6 +12,9 @@ The *Rust Foundation Maintainer Fund Design* committee is tasked with preparing 
     * How should we choose the maintainers to fund?
     * Who will choose the maintainers to fund?
     * How will we evaluate the work of the funded maintainers?
+        * What is an acceptable quality and quantity of reporting from the maintainers?
+        * What does the Foundation need at minimum?
+        * What would be useful for obtaining more funding in the future?
 * Share the proposal publicly, gather and integrate feedback.
 * Drive the RFC towards being accepted.
 
