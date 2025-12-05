@@ -51,7 +51,7 @@ The members of the committee will be given access to the results of the Rust Pro
 
 - [Lori Lorusso](https://rust-lang.org/governance/people/LoriLorusso)
   - As a representative of the Rust Foundation, which manages the Fund.
-- [Jack Huey](https://rust-lang.org/governance/people/jackh726/)
+- [Niko Matsakis](https://rust-lang.org/governance/people/nikomatsakis/)
 - [lcnr](https://rust-lang.org/governance/people/lcnr)
 - [kobzol](https://rust-lang.org/governance/people/Kobzol)
 - [tmandry](https://rust-lang.org/governance/people/tmandry)
