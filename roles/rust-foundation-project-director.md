@@ -58,7 +58,7 @@ In summary, Project Directors are..
 - **..accountable to:** the Leadership Council
 
   - (A subset of) Project Directors are expected to attend Leadership Council meetings to remain informed of the Leadership Council's views and priorities, as well as to update the Leadership Council on the actions of the Project Directors.
-  - Project Directors are expected to use their best judgement as to when to make decisions independently of the Leadership Council, based on their understanding of the current view of the Leadership Council and on the scale/severity/relevance of the decision at hand, but _can_ make decisions independently.
+  - Project Directors are expected to accurately represent the position of the Leadership Council. When required to make decisions independently of the Leadership Council, Project Directors are expected to use their best judgement as to when to make decisions, based on their understanding of the current view of the Leadership Council and on the scale/severity/relevance of the decision at hand.
   - If the Leadership Council are dissatisfied with the performance or conduct of a Project Director, that Project Director can be removed by a majority vote of the Leadership Council (per the Foundation's By-Laws, [Section 4.5]) who can then nominate and elect a replacement to serve the remainder of the term of the removed Project Director.
 
 - **..expected to consult:** the Foundation staff, the Leadership Council, relevant team leads and project members
