@@ -67,8 +67,8 @@ In summary, Project Directors are..
 
 - **..expected to keep informed:** the Leadership Council and broader project membership
 
-  - It is vital that the Leadership Council are informed of the actions of the Project Directors and of the ongoing work and priorities of the Foundation .
-  - The Project has direct and meaningful influence on the actions of the Foundation through the Project Directors and so should own our role in the Foundation's actions and communicate to the project membership why decisions were made and how the Foundation's actions are in the best interests of the Project.
+  - It is vital that the Leadership Council are informed of the actions of the Project Directors and of the ongoing work and priorities of the Foundation.
+  - By working closely with the Foundation staff and voting in board meetings, the Project Directors can ensure that the Foundation's work aligns with the best interests of the Project, and so should communicate to the project membership what the Foundation is doing and how it is benefits the Rust project.
 
 In order for the Project Directors to be successful in their role, the Leadership Council are..
 
