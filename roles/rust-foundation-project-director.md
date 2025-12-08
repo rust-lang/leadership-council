@@ -12,7 +12,7 @@ The Board of Directors sets the direction of the Rust Foundation. Among the mech
 
     By analogy, Project Directors are to the Leadership Council what Google's Platinum Member Director is to Google, for example. This isn't exactly right, as the Rust Project is distinct as a constituent of the Foundation, as the Foundation exists explicitly to serve the Rust Project, but does not exist to serve its member organisations (outwith stipulations of membership)
 
-In addition to their responsibilities to the Rust Foundation, Project Directors have responsibilities within the Rust project, primarily ensuring the Project's relationship with Rust Foundation is healthy and productive.
+In addition to their responsibilities to the Rust Foundation, Project Directors have responsibilities within the Rust Project, primarily ensuring the Project's relationship with Rust Foundation is healthy and productive.
 
 ## Goals
 
@@ -31,7 +31,7 @@ In addition to their responsibilities to the Rust Foundation, Project Directors 
 
 Project Directors are delegated responsibility for the Project's relationship with the Foundation, ensuring that it is well-functioning and that both the Project's needs of the Foundation and the Foundation's needs of the Project are met.
 
-As the Leadership Council has the authority to speak as the Project, it is vital that the Project Directors regularly communicate with the Leadership Council and act in accordance with what they genuinely believe to be the will of the Leadership Council and therefore of the Project. Regular communication is required between the Leadership Council and Project Directors. In the event of larger discussions related to the Foundation's efforts, the Project Directors and Leadership Council are expected work together to establish a consistent and coherent position that the Project Directors are then entrusted to deliver to the Foundation and guide in its implementation.
+As the Leadership Council has the authority to speak as the Project, it is vital that the Project Directors regularly communicate with the Leadership Council and act in accordance with what they genuinely believe to be the will of the Leadership Council and therefore of the Project. Regular communication is required between the Leadership Council and Project Directors. In the event of larger discussions related to the Foundation's efforts, the Project Directors and Leadership Council are expected to work together to establish a consistent and coherent position that the Project Directors are then entrusted to deliver to the Foundation and guide in its implementation.
 
 By delegating this responsibility to the Project Directors, there is a clear and well-understood point of contact for the Foundation, which aligns with who the Foundation have accountability to as board members. It will still be very beneficial for Foundation to have direct communication with the Leadership Council and individual project members where appropriate.
 
@@ -43,7 +43,7 @@ In summary, Project Directors are..
 
 - **..responsible for:** the Project's relationship with the Rust Foundation
 
-  - Ensuring that the Foundation serve the needs of the Project.
+  - Ensuring that the Foundation serves the needs of the Project.
   - Ensuring that the relationship between the Project and the Foundation is productive and well-functioning, and identifying and resolving any impediments to this well-functioning.
   - Ensuring that the Foundation are well-informed of the views, priorities and needs of the Project and vice-versa.
   - Working to address the needs of the Foundation within the Project (e.g. for changes in how communication happens or difficulties with an engineering effort, etc).
@@ -51,7 +51,7 @@ In summary, Project Directors are..
   - Delivering a "Project Director Update" in board meetings (and similarly in Leadership Council meetings if requested).
   - Publishing summaries of Foundation board meetings for the Project.
   - Meeting with the Foundation staff on a regular basis.
-  - Acting in the best interests of the Rust Foundation, as required as Directors by Delaware law.
+  - Acting in the best interests of the Rust Foundation, as required of Directors by Delaware law.
   - Maintaining a familiarity with the By-laws of the Rust Foundation.
   - Abiding by the [Rust Foundation Director Roles & Responsibilities].
 
