@@ -29,7 +29,7 @@ In addition to their responsibilities to the Rust Foundation, Project Directors 
 
 ## Tasks / Activities / Responsibilities
 
-Project Directors are delegated responsibility for the Project's relationship with the Foundation, ensuring that it is well-functioning and that both the Project's needs of the Foundation and the Foundation's needs of the Project are met.
+Project Directors are delegated responsibility for the Project's relationship with the Foundation, ensuring that it is well-functioning and that primarily the Project's needs of the Foundation, but also the Foundation's needs of the Project are met.
 
 As the Leadership Council has the authority to speak as the Project, it is vital that the Project Directors regularly communicate with the Leadership Council and act in accordance with what they genuinely believe to be the will of the Leadership Council and therefore of the Project. Regular communication is required between the Leadership Council and Project Directors. In the event of larger discussions related to the Foundation's efforts, the Project Directors and Leadership Council are expected to work together to establish a consistent and coherent position that the Project Directors are then entrusted to deliver to the Foundation and guide in its implementation.
 
