@@ -21,7 +21,7 @@ In order to reduce the overhead of processing applications, the Foundation will 
 
 - The applicant is a Member of the Rust Project (as defined by being on the “All At” mailing list).
 - The event is considered to be legitimate. Whilst there is no definition of a “formal” Rust event, it should be one that is broadly known within the Rust Community and considered to be of value.
-- The amount being sought does not exceed $1000 USD AND, if awarded, the total amount awarded to that individual including earlier travel grants, should they exist, does not exceed $1000 USD over the course of a calendar year. The amounts should seem reasonable given the applicant's place of residence and the location of the event itself.
+- The amount being sought does not exceed $2000 USD AND, if awarded, the total amount awarded to that individual including earlier travel grants, should they exist, does not exceed $2000 USD over the course of a calendar year. The amounts should seem reasonable given the applicant's place of residence and the location of the event itself.
 
 Applications outside of these guidelines will be sent to the Leadership Council for approval.
 
