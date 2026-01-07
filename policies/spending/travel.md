@@ -4,6 +4,9 @@ The Leadership Council of the Rust Project has allocated up to $100,000 USD to b
 
 We plan to continue this program as long as funds are available. An announcement will be made if this program is discontinued, or if there are significant changes to it.
 
+> [!NOTE]
+> The Foundation is providing a separate budget of $50,000 USD for travel for RustConf 2026. The application process using the form below is the same.
+
 ## Approval guidelines
 
 The following are guidelines for approval of an application:
