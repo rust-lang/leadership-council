@@ -30,7 +30,7 @@ Applications outside of these guidelines will be sent to the Leadership Council 
 
 ## Process
 
-To apply, send an email to <mailto:grants@rustfoundation.org> with an estimation of the budget you need, what event you need it for, and a brief note on why you need it so we can learn and come up with a good policy in the future. After approval, the Foundation will reimburse the actual costs of your trip (up to the approved limit).
+To apply, please fill out the [Travel Support Request Form](https://docs.google.com/forms/d/e/1FAIpQLSfoba-rdMW4i4R0ui-74f7cITxFQV8Tsw9XLY9r0iex7mBVLg/viewform). You'll need to provide the event you would like to attend, and an estimation of the budget for travel and housing support. The Foundation will send you an approval email with the total amount you will be reimbursed as well as a banking information form. You have up till 30 days post event to email the receipts of your trip to the Foundation and they will reimburse the actual costs of your trip (up to the approved limit). If you have any questions please email <mailto:grants@rustfoundation.org>.
 
 ## Transparency
 
