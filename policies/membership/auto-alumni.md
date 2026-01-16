@@ -24,7 +24,7 @@ Historically, we have found that *zero* response is not uncommon despite repeate
 
 During/after the above process, a PR will be filed against rust-lang/team which pings (via GitHub) all moved people and sets their status to alumni. This PR will be kept open for at least 10 days (emulating an FCP, though no FCP will be required) prior to merging.
 
-Anyone speaking up at this point as still active will be removed from the list with no questions asked.
+Anyone speaking up at this point as still active will be removed from the list of removals in the PR with no questions asked.
 
 ## Rejoining
 
