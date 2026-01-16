@@ -1,6 +1,6 @@
 # Keeping membership aligned with reality
 
-This policy outlines how the Rust Project will maintain the membership in rust-lang/team to be kept up to date.
+This policy outlines how the Council will help maintain the membership in rust-lang/team to be kept up to date.
 
 ## Goals
 
