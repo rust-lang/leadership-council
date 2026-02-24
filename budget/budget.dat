@@ -181,3 +181,8 @@
 2026-01-31 Program management payments
   liabilities:payables  $11,076.51
   assets:program-management
+
+2026-02-23 Outreachy 2026 allocation
+  ; https://github.com/rust-lang/leadership-council/issues/264
+  assets:mentors  $25,000
+  assets:council
