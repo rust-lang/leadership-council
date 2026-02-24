@@ -170,3 +170,14 @@
   ; to zero the carry-over.
   assets:council  $18,775.40
   assets:travel
+
+2026-01-31 PM1 monthly invoice
+  expenses:program-management  $8,778  ; 2026-01 -- 19 days.
+  expenses:program-management  $483.51  ; 2026 All Hands airfare.
+  expenses:program-management  $1,217.34  ; 2026 All Hands hotel.
+  expenses:program-management  $597.66  ; 2026 All Hands conference ticket.
+  liabilities:payables  -$11,076.51
+
+2026-01-31 Program management payments
+  liabilities:payables  $11,076.51
+  assets:program-management
