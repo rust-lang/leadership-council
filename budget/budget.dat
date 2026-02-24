@@ -1,0 +1,172 @@
+; -*- mode:ledger -*-
+
+2024-03-26 Leads summit 2024
+  expenses:travel  $2,522.97
+  assets:travel
+
+2024-04-01 Funding from Microsoft $1M grant
+  ; https://rustfoundation.org/media/1m-microsoft-donation-to-fund-key-rust-foundation-project-priorities/
+  assets:council  $650,000
+  income:microsoft
+
+2024-04-12 Travel grants 2024 allocation
+  ; https://github.com/rust-lang/leadership-council/blob/HEAD/minutes/sync-meeting/2024-04-12.md
+  assets:travel  $75,000
+  assets:council
+
+2024-07-19 All-hands 2025 allocation
+  ; https://github.com/rust-lang/leadership-council/blob/main/minutes/sync-meeting/2024-07-19.md
+  assets:all-hands  $100,000
+  assets:council
+
+2024-11-05 Supplemental project grants 2024/2025 allocation
+  ; https://github.com/rust-lang/leadership-council/issues/112
+  assets:grants  $80,000
+  assets:council
+
+2024-11-18 Compiler-ops 2025H1 allocation
+  ; https://github.com/rust-lang/leadership-council/issues/114
+  assets:compiler-ops  $30,000
+  assets:council
+
+2024-11-23 Funding from GSoC 2024
+  ; https://github.com/rust-lang/leadership-council/issues/116
+  assets:council  $4,500
+  income:gsoc
+
+2024-12-02 Allocate GSoc 2024 funds for paying mentors
+  ; https://github.com/rust-lang/leadership-council/issues/116
+  assets:mentors  $4,500
+  assets:council
+
+2024-12-02 Pay GSoC 2024 mentors
+  ; https://github.com/rust-lang/leadership-council/issues/116
+  expenses:mentors  $4,500
+  assets:mentors
+
+2024-12-31 Travel grants 2024 payments
+  expenses:travel  $13,632
+  assets:travel
+
+2025-01-01 Travel grants 2025 allocation
+  ; https://github.com/rust-lang/leadership-council/blob/HEAD/minutes/sync-meeting/2024-04-12.md
+  assets:travel  $75,000
+  assets:council
+
+2025-03-03 Program management allocation
+  ; https://github.com/rust-lang/leadership-council/issues/151
+  assets:program-management  $200,000
+  assets:council
+
+2025-03-20 Program management amended allocation
+  ; https://github.com/rust-lang/leadership-council/issues/151#issuecomment-2741830110
+  assets:program-management  $40,000
+  assets:council
+
+2025-05-16 All-hands 2025 allocation
+  expenses:all-hands  $100,000
+  assets:all-hands
+
+2025-05-16 RustWeek tickets 2025 payments
+  expenses:travel  $10,206.90
+  assets:travel
+
+2025-06-28 Compiler-ops 2025H2 allocation
+  ; https://github.com/rust-lang/leadership-council/issues/181
+  assets:compiler-ops  $25,000
+  assets:council
+
+2025-06-30 PM1 monthly invoice
+  expenses:program-management  $9,240  ; 2025-06 -- 20 days.
+  liabilities:payables
+
+2025-06-30 Program management payments
+  liabilities:payables  $9,240
+  assets:program-management
+
+2025-07-31 PM1 monthly invoice
+  expenses:program-management  $7,854  ; 2025-07 -- 17 days.
+  liabilities:payables
+
+2025-07-31 Program management payments
+  liabilities:payables  $7,854
+  assets:program-management
+
+2025-08-31 PM1 monthly invoice
+  expenses:program-management  $9,240  ; 2025-08 -- 20 days.
+  liabilities:payables
+
+2025-08-31 Program management payments
+  liabilities:payables  $9,240
+  assets:program-management
+
+2025-09-30 PM1 monthly invoice
+  expenses:program-management  $9,240  ; 2025-09 -- 20 days.
+  liabilities:payables
+
+2025-09-30 Program management payments
+  liabilities:payables  $9,240
+  assets:program-management
+
+2025-10-31 Supplemental project grants 2025H2 payments
+  expenses:grants  $80,000
+  assets:grants
+
+2025-10-31 PM1 monthly invoice
+  expenses:program-management  $7,854  ; 2025-10 -- 17 days.
+  liabilities:payables
+
+2025-10-31 Program management payments
+  liabilities:payables  $7,854
+  assets:program-management
+
+2025-11-30 PM1 monthly invoice
+  expenses:program-management  $6,006  ; 2025-11 -- 13 days.
+  liabilities:payables
+
+2025-11-30 Program management payments
+  liabilities:payables  $6,006
+  assets:program-management
+
+2025-12-29 Compiler-ops 2026 allocation
+  ; https://github.com/rust-lang/leadership-council/issues/244
+  assets:compiler-ops  $55,000
+  assets:council
+
+2025-12-29 Program management 2026 allocation
+  ; https://github.com/rust-lang/leadership-council/issues/255
+  assets:program-management  $160,000
+  assets:council
+
+2025-12-29 Travel grants 2026 allocation
+  ; https://github.com/rust-lang/leadership-council/pull/254
+  assets:travel  $100,000
+  assets:council
+
+2025-12-31 Compiler-ops 2025 payments
+  expenses:compiler-ops  $44,824.14  ; 2025
+  assets:compiler-ops
+
+2025-12-31 PM1 monthly invoice
+  expenses:program-management  $6,930  ; 2025-12 -- 15 days.
+  liabilities:payables
+
+2025-12-31 Program management payments
+  liabilities:payables  $6,930
+  assets:program-management
+
+2025-12-31 Travel grants 2025 payments
+  expenses:travel  $104,862.73
+  assets:travel
+
+2026-01-01 Foundation 2026 funding
+  assets:council  $118,673  ; From the old grants program budget.
+  assets:council  $306,010  ; New funds
+  income:foundation
+
+2026-01-01 Travel grants 2026 reconciliation
+  ; Based on our decision in PR 254, we allocated $100k to travel
+  ; for 2026 without carrying forward unspent amounts, so we need
+  ; to zero the carry-over.
+  assets:council  $18,775.40
+  assets:travel
