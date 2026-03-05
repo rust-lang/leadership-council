@@ -160,8 +160,8 @@
   assets:travel
 
 2026-01-01 Foundation 2026 funding
-  assets:council  $118,673  ; From the old grants program budget.
-  assets:council  $306,010  ; New funds
+  assets:council  $118,672.81  ; From the Foundation Grants Program budget.
+  assets:council  $306,010.06  ; New funds.
   income:foundation
 
 2026-01-01 Travel grants 2026 reconciliation
