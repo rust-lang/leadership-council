@@ -182,7 +182,40 @@
   liabilities:payables  $11,076.51
   assets:program-management
 
+2026-01-31 Travel commitments 2026-01
+  ; These are travel grants that we have approved contingent on later
+  ; receiving expense documentation.
+  assets:travel:committed  $18,896.50  ; 1 x All Hands, 10 x All Hands + RustWeek.
+  assets:travel
+
 2026-02-23 Outreachy 2026 allocation
   ; https://github.com/rust-lang/leadership-council/issues/264
   assets:mentors:outreachy  $25,000
   assets:council
+
+2026-02-27 PM2 monthly invoice
+  expenses:program-management  $8,000  ; 2026-02 -- 20 days.
+  liabilities:payables
+
+2026-02-28 PM1 monthly invoice
+  expenses:program-management  $8,547  ; 2026-02 -- 18.5 days.
+  liabilities:payables
+
+2026-02-28 Program management payments
+  liabilities:payables  $16,547
+  assets:program-management
+
+2026-02-28 Travel commitments 2026-02
+  ; These are travel grants that we have approved contingent on later
+  ; receiving expense documentation.
+  assets:travel:committed  $415  ; 1 x Rust in Paris.
+  assets:travel:committed  $2,019  ; 2 x Rust Nation UK.
+  assets:travel:committed  $2,771  ; 1 x All Hands.
+  assets:travel:committed  $36,293.57  ; 16 x All Hands + RustWeek.
+  assets:travel  -$41,498.57
+
+2026-02-28 February travel payments
+  ; These are travel grants that we had previously approved and have
+  ; now paid after receiving expense documentation.
+  expenses:travel  $5,915.76  ; 1 x All Hands, 1 x All Hands + RustWeek, 1 x Rust in Paris, 1 x Rust Nation UK.
+  assets:travel:committed
