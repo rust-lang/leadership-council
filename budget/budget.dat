@@ -191,7 +191,7 @@
 2026-01-01 Travel grants 2026 reconciliation
   ; Based on our decision in PR 254, we allocated $100k to travel
   ; for 2026 without carrying forward unspent amounts, so we need
-  ; to zero the carry-over.
+  ; to zero the carryover.
   assets:council  $18,775.40
   assets:travel
 
