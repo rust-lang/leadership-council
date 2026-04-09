@@ -238,7 +238,7 @@
   assets:travel:committed  $36,293.57  ; 16 x All Hands + RustWeek.
   assets:travel  -$41,498.57
 
-2026-02-28 February travel payments
+2026-02-28 Travel payments 2026-02
   ; These are travel grants that we had previously approved and have
   ; now paid after receiving expense documentation.
   expenses:travel  $5,915.76  ; 1 x All Hands, 1 x All Hands + RustWeek, 1 x Rust in Paris, 1 x Rust Nation UK.
@@ -247,14 +247,14 @@
 2026-02-28 Travel commitment excess 2026-02
   ; These are approved travel grants that requested more than was
   ; later paid.
-  assets:travel:committed  -$42.02  ; 1x All Hands.
+  assets:travel:committed  -$42.02  ; 1 x All Hands.
   assets:travel
 
 2026-02-28 Travel commitment shortage 2026-02
   ; These are approved travel grants that requested less than was
   ; later paid (often due to small price/currency changes between
-  ; travel grant request, approval and an expense taking place).
-  assets:travel:committed  $9.78  ; 1x Rust in Paris.
+  ; travel grant request, approval, and an expense taking place).
+  assets:travel:committed  $9.78  ; 1 x Rust in Paris.
   assets:travel
 
 2026-03-23 PM2 invoice
@@ -273,25 +273,25 @@
 2026-03-31 Travel commitments 2026-03
   ; These are travel grants that we have approved contingent on later
   ; receiving expense documentation.
-  assets:travel:committed  $900        ; 1x All Hands.
-  assets:travel:committed  $43,607.15  ; 23x All Hands + RustWeek.
+  assets:travel:committed  $900        ; 1 x All Hands.
+  assets:travel:committed  $43,607.15  ; 23 x All Hands + RustWeek.
   assets:travel  -$44,507.15
 
-2026-03-31 March travel payments
+2026-03-31 Travel payments 2026-03
   ; These are travel grants that we had previously approved and have
   ; now paid after receiving expense documentation.
-  expenses:travel  $4,913.42  ; 1 x Rust Nation UK, 1 x Rust in Paris, 3 x All Hands + Rust Week.
+  expenses:travel  $4,913.42  ; 1 x Rust Nation UK, 1 x Rust in Paris, 3 x All Hands + RustWeek.
   assets:travel:committed
 
 2026-03-31 Travel commitment excess 2026-03
   ; These are approved travel grants that requested more than was
   ; later paid.
-  assets:travel:committed  -$330.49  ; 1x All Hands + RustWeek.
+  assets:travel:committed  -$330.49  ; 1 x All Hands + RustWeek.
   assets:travel
 
 2026-03-31 Travel commitment shortage 2026-03
   ; These are approved travel grants that requested less than was
   ; later paid (often due to small price/currency changes between
-  ; travel grant request, approval and an expense taking place).
-  assets:travel:committed  $0.91  ; 1x Rust in Paris.
+  ; travel grant request, approval, and an expense taking place).
+  assets:travel:committed  $0.91  ; 1 x Rust in Paris.
   assets:travel
