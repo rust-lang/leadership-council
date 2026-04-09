@@ -195,6 +195,15 @@
   assets:council  $18,775.40
   assets:travel
 
+2026-01-01 Travel commitments 2025-12
+  ; These are travel grants that we have approved contingent on later
+  ; receiving expense documentation
+  ;
+  ; In particular, these entries were approved in 2025 but only paid
+  ; in 2026
+  assets:travel:committed  $140  ; Rust in Paris
+  assets:travel
+
 2026-01-31 PM1 invoice
   expenses:program-management  $8,778  ; 2026-01 -- 19 days.
   expenses:program-management  $483.51  ; 2026 All Hands airfare.
@@ -209,7 +218,8 @@
 2026-01-31 Travel commitments 2026-01
   ; These are travel grants that we have approved contingent on later
   ; receiving expense documentation.
-  assets:travel:committed  $18,896.50  ; 1 x All Hands, 10 x All Hands + RustWeek.
+  assets:travel:committed  $2,171.00  ; All Hands + RustWeek.
+  assets:travel:committed  $2,487.50  ; All Hands + RustWeek.
   assets:travel
 
 2026-02-23 Outreachy 2026 allocation
@@ -232,11 +242,28 @@
 2026-02-28 Travel commitments 2026-02
   ; These are travel grants that we have approved contingent on later
   ; receiving expense documentation.
-  assets:travel:committed  $415  ; 1 x Rust in Paris.
-  assets:travel:committed  $2,019  ; 2 x Rust Nation UK.
-  assets:travel:committed  $2,771  ; 1 x All Hands.
-  assets:travel:committed  $36,293.57  ; 16 x All Hands + RustWeek.
-  assets:travel  -$41,498.57
+  assets:travel:committed  $485       ; Rust in Paris.
+  assets:travel:committed  $2,263     ; All Hands + RustWeek.
+  assets:travel:committed  $694       ; All Hands + RustWeek.
+  assets:travel:committed  $1,974     ; All Hands + RustWeek.
+  assets:travel:committed  $1,880     ; All Hands + RustWeek.
+  assets:travel:committed  $1,637     ; All Hands + RustWeek.
+  assets:travel:committed  $1,450     ; All Hands + RustWeek.
+  assets:travel:committed  $830       ; All Hands.
+  assets:travel:committed  $1,446     ; All Hands + RustWeek.
+  assets:travel:committed  $1,465     ; All Hands + RustWeek.
+  assets:travel:committed  $2,064     ; All Hands + RustWeek.
+  assets:travel:committed  $2,347     ; All Hands + RustWeek.
+  assets:travel:committed  $415       ; Rust in Paris.
+  assets:travel:committed  $2,650     ; All Hands + RustWeek.
+  assets:travel:committed  $1,246     ; Rust Nation.
+  assets:travel:committed  $773       ; Rust Nation.
+  assets:travel:committed  $2,880     ; All Hands + RustWeek.
+  assets:travel:committed  $1,789.72  ; All Hands + RustWeek.
+  assets:travel:committed  $1,380     ; All Hands + RustWeek.
+  assets:travel:committed  $3,248.70  ; All Hands + RustWeek.
+  assets:travel:committed  $2,771     ; All Hands.
+  assets:travel
 
 2026-02-28 Travel payments 2026-02
   ; These are travel grants that we had previously approved and have
@@ -273,9 +300,34 @@
 2026-03-31 Travel commitments 2026-03
   ; These are travel grants that we have approved contingent on later
   ; receiving expense documentation.
-  assets:travel:committed  $900        ; 1 x All Hands.
-  assets:travel:committed  $43,607.15  ; 23 x All Hands + RustWeek.
-  assets:travel  -$44,507.15
+  assets:travel:committed  $2,209.22  ; All Hands + RustWeek.
+  assets:travel:committed  $2,867.93  ; All Hands + RustWeek.
+  assets:travel:committed  $1,980     ; All Hands + RustWeek.
+  assets:travel:committed  $1,812     ; All Hands + RustWeek.
+  assets:travel:committed  $900       ; All Hands.
+  assets:travel:committed  $2,013     ; All Hands + RustWeek.
+  assets:travel:committed  $2,130     ; All Hands + RustWeek.
+  assets:travel:committed  $3,312     ; All Hands + RustWeek.
+  assets:travel:committed  $2,777     ; All Hands + RustWeek.
+  assets:travel:committed  $2,897     ; All Hands + RustWeek.
+  assets:travel:committed  $727       ; Rust in Paris.
+  assets:travel:committed  $1,620     ; All Hands + RustWeek.
+  assets:travel:committed  $1,400     ; All Hands + RustWeek.
+  assets:travel:committed  $613       ; Rust in Paris.
+  assets:travel:committed  $1,521     ; All Hands + RustWeek.
+  assets:travel:committed  $1,272     ; All Hands + RustWeek.
+  assets:travel:committed  $1,500     ; All Hands + RustWeek.
+  assets:travel:committed  $1,680     ; All Hands + RustWeek.
+  assets:travel:committed  $950       ; All Hands + RustWeek.
+  assets:travel:committed  $280       ; All Hands + RustWeek.
+  assets:travel:committed  $2,000     ; All Hands + RustWeek.
+  assets:travel:committed  $2,000     ; All Hands + RustWeek.
+  assets:travel:committed  $500       ; All Hands + RustWeek.
+  assets:travel:committed  $2,000     ; All Hands + RustWeek.
+  assets:travel:committed  $886       ; All Hands + RustWeek.
+  assets:travel:committed  $2,000     ; All Hands + RustWeek.
+  assets:travel:committed  $2,000     ; All Hands + RustWeek.
+  assets:travel
 
 2026-03-31 Travel payments 2026-03
   ; These are travel grants that we had previously approved and have
