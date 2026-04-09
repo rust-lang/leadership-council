@@ -257,6 +257,15 @@
   assets:travel:committed  $9.78  ; 1x Rust in Paris.
   assets:travel
 
+2026-03-23 PM2 invoice
+  expenses:program-management  $8,800  ; 2026-03 -- 22 days.
+  expenses:program-management  $2,400  ; 2026-04 (2026-04-01 - 2026-04-08) -- 6 days.
+  liabilities:payables  -$11,200
+
+2026-03-31 PM1 invoice
+  expenses:program-management  $9,240  ; 2026-03 -- 20 days.
+  liabilities:payables
+
 2026-03-31 Program management payments
   liabilities:payables  $18,040
   assets:program-management
