@@ -2,7 +2,7 @@
 
 2024-03-26 Leads summit 2024
   expenses:travel  $2,522.97
-  assets:travel
+  assets:travel:free
 
 2024-04-01 Funding from Microsoft $1M grant
   ; https://rustfoundation.org/media/1m-microsoft-donation-to-fund-key-rust-foundation-project-priorities/
@@ -11,7 +11,7 @@
 
 2024-04-12 Travel grants 2024 allocation
   ; https://github.com/rust-lang/leadership-council/blob/HEAD/minutes/sync-meeting/2024-04-12.md
-  assets:travel  $75,000
+  assets:travel:free  $75,000
   assets:council
 
 2024-07-19 All-hands 2025 allocation
@@ -46,11 +46,11 @@
 
 2024-12-31 Travel grants 2024 payments
   expenses:travel  $13,632
-  assets:travel
+  assets:travel:free
 
 2025-01-01 Travel grants 2025 allocation
   ; https://github.com/rust-lang/leadership-council/blob/HEAD/minutes/sync-meeting/2024-04-12.md
-  assets:travel  $75,000
+  assets:travel:free  $75,000
   assets:council
 
 2025-03-03 Program management allocation
@@ -69,7 +69,7 @@
 
 2025-05-16 RustWeek tickets 2025 payments
   expenses:travel  $10,206.90
-  assets:travel
+  assets:travel:free
 
 2025-06-28 Compiler-ops 2025H2 allocation
   ; https://github.com/rust-lang/leadership-council/issues/181
@@ -140,7 +140,7 @@
 
 2025-12-29 Travel grants 2026 allocation
   ; https://github.com/rust-lang/leadership-council/pull/254
-  assets:travel  $100,000
+  assets:travel:free  $100,000
   assets:council
 
 2025-12-31 Compiler-ops 2025 payments
@@ -157,7 +157,7 @@
 
 2025-12-31 Travel grants 2025 payments
   expenses:travel  $104,862.73
-  assets:travel
+  assets:travel:free
 
 2026-01-01 Transfer of remaining Grants Program funds
   ; Starting in 2026, the Project assumed direct responsibility for
@@ -193,7 +193,7 @@
   ; for 2026 without carrying forward unspent amounts, so we need
   ; to zero the carryover.
   assets:council  $18,775.40
-  assets:travel
+  assets:travel:free
 
 2026-01-31 PM1 invoice
   expenses:program-management  $8,778  ; 2026-01 -- 19 days.
@@ -210,7 +210,7 @@
   ; These are travel grants that we have approved contingent on later
   ; receiving expense documentation.
   assets:travel:committed  $18,896.50  ; 1 x All Hands, 10 x All Hands + RustWeek.
-  assets:travel
+  assets:travel:free
 
 2026-02-23 Outreachy 2026 allocation
   ; https://github.com/rust-lang/leadership-council/issues/264
@@ -236,7 +236,7 @@
   assets:travel:committed  $2,019  ; 2 x Rust Nation UK.
   assets:travel:committed  $2,771  ; 1 x All Hands.
   assets:travel:committed  $36,293.57  ; 16 x All Hands + RustWeek.
-  assets:travel  -$41,498.57
+  assets:travel:free  -$41,498.57
 
 2026-02-28 February travel payments
   ; These are travel grants that we had previously approved and have
