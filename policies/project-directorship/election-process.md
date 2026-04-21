@@ -30,26 +30,92 @@ The purpose of this policy is to outline a clear and efficient process for elect
     * Qualifications
     * Term
 
+This is a time-consuming role and may be better suited for someone being paid to work on the Project. A Project manager is a good option and this role fits well within their responsibilities.
+
+The Council can also ask the Foundation to provide a staff member, but that should be done well in advance (3-4 months to make sure they can find someone who will have the time).
+
 ### Pre-Meeting Coordination
 
 * Gather nominations
-    * The nomination process begins with a public announcement made on public communication channels from the facilitator chosen in the Setup phase. Council representatives should help publicize this announcement to their teams as well.
+    * The nomination process begins with a public announcement made on public communication channels from the facilitator chosen in the Setup phase. Council representatives and team leads should help publicize this announcement to their teams as well. Past examples:
+        *  [Inside Rust Blog](https://blog.rust-lang.org/inside-rust/2025/08/20/electing-new-project-directors-2025/)
+        * [Zulip](https://rust-lang.zulipchat.com/#narrow/channel/392734-council/topic/2025.20project.20director.20elections/near/535321402)
+        * Emailing `all@rust-lang.org`
+    * The announcement will explicitly spell out the "Affiliation Limits" section below.
     * The announcement will specify a date by which nominations must be submitted. This date will be no less than two weeks from the date the announcement goes out, and no more than four weeks.
     * Council representatives collaborate with their subteams to collect nominations on behalf of their branch of the organization tree.
       * Nominations do not have to be members of the Council representative's respective team but must be project members.
     * Subteams can utilize any process they prefer, but we recommend following a similar approach to the process outlined in the "Election Meeting" section below
+    * The facilitator should reach out directly to team leads to:
+        * Bring the process to their teams
+        * Collect nominations from their members
+        * NOTE: The leads are not tasked with nominating candidates directly (though they can do so, just like any other Project member)
     * The facilitator may specify a minimum or maximum time period
+	* It is recommended to get the process started at least 2 months from the board meeting the new PDs will attend
 * Share nominations
     * *Nominations from all teams will be pooled together. In other words, teams do not have to nominate a set of directors as a whole. They may nominate any number of potential directors.*
     * Each team representative must share their team's nominations and the reasoning for their nominations first with the candidates being nominated, and then, for those candidates who consent to be nominated, with the council's selected facilitator.
-    * The facilitator must publicly share the pool of all nominations and reasonings at least ten days before the final election meeting.
+    * Each consenting candidate must write a statement on their candidacy
+      * The facilitator must clarify that these statements will be made public
+      * For reference, here are the [2025](https://hackmd.io/@rust-leadership-council/S1WrrVY_ex) and [2024](https://hackmd.io/@rust-leadership-council/B1aNREWZye) candidate statements
+    * The facilitator must publicly share the pool of all nominations, statements, and reasonings at least ten days before the final election meeting.
         * This allows other teams to share feedback or objections about candidates their team didn't initially consider with their representative.
+        * The Facilitator will explicitly reach out to team leads, existing PDs, and the Council for feedback
     * This 10-day period is equivalent to the Change Round in the "Election Meeting" step; representatives may change their nominations in advance of the meeting, this does not require restarting the 10-day period.
-    * Once nominations are final, the facilitator will share the names of all nominees with the Foundation, who will set up an online election poll.
+    * The facilitator will share the names of all nominees with the Foundation, who will set up an online election poll.
+        * In the past rounds, the poll was set up by @BecRumbul
+        * The poll **doesn't allow changing one's vote** after it's cast. The Council should verify access, but they must *only cast the vote at the appropriate time* during the Election Meeting
 
-### Election Meeting
+
+### Election Meeting preparation
 
 The election meeting is comprised of all members of the Leadership Council who will actively participate in the consensus process as well as the facilitator who will facilitate that process.
+
+The facilitator schedules the meeting. This is typically done at the same time and day of the week as the Council meeting, but on an off week (i.e. Friday when there's no scheduled Council meeting). In 2025, the meeting took 2.5 hours, the previous years took 1.5. The facilitator must share this expectation and should consider scheduling it earlier, if possible.
+
+If a Council member is unable to attend the Election Meeting or needs to recuse themself, the team they represent will select another member to act in their stead.
+
+The facilitator will create a HackMD document containing:
+
+* The candidates
+* Their statements
+* Feedback we've received
+* "Discussion" section to capture everyone's thoughts on each candidate
+* "Preferences" section with a table
+* "Selection" section
+
+The Preferences section looks like this:
+
+`-1`: I have objections
+`0`: Not my choice, but no objections
+`1`: I prefer this candidate
+
+|      | Candidate 1 | Candidate 2 | Candidate 3 | Candidate 4 | Candidate 5 |
+|------|-------------|-------------|-------------|-------------|-------------|
+| LC A | 0           | +1          | +1          | 0           | -.5         |
+| LC B | +1          | 0.5         | +1          | -1          | +1          |
+| LC C | +1          | -.5         | 0           | +.5         | +1          |
+| LC E | 0           | -.5         | 0           | +.5         | +1          |
+| LC F | +1          | -.5         | +1          | +.5         | +1          |
+| LC G | +1          | -.5         | 0           | +.5         | +1          |
+| LC H | +1          | -.5         | 0           | +.5         | +1          |
+|------|-------------|-------------|-------------|-------------|-------------|
+| Sum  | +5          | -1          | 3           | +1.5        | +5.5        |
+
+The first column lists all the LC members and stand-ins who cast the votes. The first row lists all the PD candidates.
+
+Each Council member will share their (non-binding) preference on each candidate in isolation. The actual discussion and election process is described in the "Election Meeting" section below.
+
+NOTE: The facilitator must ensure that the document is accessible to every voting member and *no one else*. In particular, if an existing Council member is among the candidates, the hackmd cannot created under the Leadership Council hackmd organisation.
+
+In 2025, the facilitator created a document in their personal account, set the "Read" and "Write" Note permissions to "Signed-in users" and took care to only share the link with the voting members.
+
+After the meeting, they set the permission to "Only me".
+
+This is to work around the fact that our free HackMD accounts don't allow sharing a private note with more than three other people. The facilitator should investigate other solutions ahead-of-time.
+
+
+### Election Meeting
 
 * Share nominations
     * Write down nominations first[^1].
@@ -58,8 +124,10 @@ The election meeting is comprised of all members of the Leadership Council who w
 * Change Round
     * During the change round, every team member will share their current preferred nominees and the reasons for changes from the previous preferred nominees if that applies.
     * Note that the change round is driving around discussing and trying to select the best possible nominee(s) rather than discussing the full set of nominees. De-selecting a nominee from consideration in a given change round does not disqualify the nominee from being selected in future change rounds.
-* Facilitator proposes a candidate:
-    * Based on gathered data, the facilitator suggests a candidate they believe will receive the group's consent.
+* Facilitator proposes a candidate selection:
+    * Based on gathered data, the facilitator suggests a set of candidates they believe will receive the group's consent.
+    * The proposal should contain the full set of proposed PDs rather than selecting them one by one
+      * That way, the Council can consider any potential conflicts etc. in that group as a whole
 * Seek objections to the facilitator's proposal
 * Finalize the selection:
     * Discuss and attempt to resolve any objections, if possible.
@@ -68,6 +136,11 @@ The election meeting is comprised of all members of the Leadership Council who w
     * Continue seeking consensus and addressing objections until a satisfactory candidate is selected.
         * Note that this process seeks to produce a candidate everyone is satisfied with and has no objections to. Avoid lengthy debates over preferences not related to objections or unmet requirements.
 * Each council member will privately vote in the election poll set up by the Foundation.
+    * The vote happens during the meeting itself
+* After the meeting, the Facilitator will confirm with the Foundation whether:
+    * All the votes were cast.
+    * The results match the final selection.
+    * The votes were unanimous.
 * The Foundation will handle:
     * Verifying eligibility.
     * Onboarding new directors.
@@ -84,14 +157,23 @@ troubleshoot and find an approach that is more likely to be successful. We do
 not specify how this will happen, but the council would likely convene a
 subcommittee to work on the issue and report back to the council.
 
+### Affiliation Limits
+
+There can be **at most 1** Project Director employed by a company that's a [*corporate member* of the Foundation](https://rustfoundation.org/members/)[^3][^4].
+
+There are no affiliation limits for companies that aren't corporate members.
+
 ### Conflicts of Interest
 
 The Council will follow the policies defined in the [Leadership Council
-RFC][rfc3392] for handling conflicts of interest. One potential source of
-conflicts of interest is if a Council member is nominated as a candidate for the
-Project Director role.
+RFC][rfc3392] for handling conflicts of interest.
 
 [rfc3392]: https://rust-lang.github.io/rfcs/3392-leadership-council.html
+
+One potential source of conflicts of interest is if a Council member is nominated as a candidate for
+the Project Director role. In that case, the team the Council member represents will select another
+representative who will participate in the election process and cast the vote.
+
 ### FAQ
 
 #### Why is there no step where we initially require that people consent to be nominated?
@@ -106,3 +188,5 @@ There are several possibilities for how to proceed in this case. As one possibil
 
 [^1]: During the nomination round, it is incredibly tempting to just go with the group energy, especially when you are speaking late in the Round. Writing down your nomination will encourage you to share your genuine nomination without getting swayed too soon (or not at all). So often, the best ideas are the ones that seem peripheral at first.
 [^2]: A round is a conversation format where everyone speaks, one by one, until everyone in the group has spoken. It starts with the facilitator asking a specific question or prompt to one person and then proceeds one by one until everyone has shared. In a round, people can share their initial reactions and reflections on what has been stated before them. It is a way to ensure that everyone's voice is heard equally, and it gives maximum input both from individuals and group wisdom.
+[^3]: Project Director [Requirements and Eligibility](../../roles/rust-foundation-project-director.md#requirements-and-eligibility)
+[^4]: [Section 4.3(g)](https://rustfoundation.org/policy/bylaws/#section-4.3-nomination%2C-election-and-term-of-office-of-directors) of the Foundation Bylaws.
