@@ -13,7 +13,7 @@ The purpose of this policy is to outline a clear and efficient process for elect
 * Ensure participants feel positive about their interactions and the execution of the process.
 * Ensure the process is compliant with Rust Foundation bylaws and Delaware corporation law.
 
-## Description
+## Procedure
 
 ### Setup
 
@@ -23,14 +23,14 @@ The purpose of this policy is to outline a clear and efficient process for elect
     * **Goals of the facilitator role**
         * Clearly documenting and communicating the process and announcing and supporting its execution.
         * Tracking, reviewing, and documenting the effectiveness of the process.
-* Review Role Description ([example](https://github.com/rust-lang/rfcs/pull/3392#issuecomment-1505697944)). The role description must contain the following content at a minimum:
+* Review Role Description ([example](https://github.com/rust-lang/rfcs/pull/3392#issuecomment-1505697944)). The facilitator role description must contain at least the following content:
     * Goals
     * Time Investment
     * Responsibilities
     * Qualifications
     * Term
 
-This is a time-consuming role and may be better suited for someone being paid to work on the Project. A Project manager is a good option and this role fits well within their responsibilities.
+The facilitator role is time-consuming and may be better suited for someone already being paid to work on the Project. A Project Manager is a good option, as this role fits well within their responsibilities.
 
 The Council can also ask the Foundation to provide a staff member, but that should be done well in advance (3-4 months to make sure they can find someone who will have the time).
 
@@ -51,7 +51,7 @@ The Council can also ask the Foundation to provide a staff member, but that shou
         * Collect nominations from their members
         * NOTE: The leads are not tasked with nominating candidates directly (though they can do so, just like any other Project member)
     * The facilitator may specify a minimum or maximum time period
-	* It is recommended to get the process started at least 2 months from the board meeting the new PDs will attend
+	* It is recommended to start the process at least 2 months before the board meeting attended by the new PDs
 * Share nominations
     * *Nominations from all teams will be pooled together. In other words, teams do not have to nominate a set of directors as a whole. They may nominate any number of potential directors.*
     * Each team representative must share their team's nominations and the reasoning for their nominations first with the candidates being nominated, and then, for those candidates who consent to be nominated, with the council's selected facilitator.
@@ -60,7 +60,7 @@ The Council can also ask the Foundation to provide a staff member, but that shou
       * For reference, here are the [2025](https://hackmd.io/@rust-leadership-council/S1WrrVY_ex) and [2024](https://hackmd.io/@rust-leadership-council/B1aNREWZye) candidate statements
     * The facilitator must publicly share the pool of all nominations, statements, and reasonings at least ten days before the final election meeting.
         * This allows other teams to share feedback or objections about candidates their team didn't initially consider with their representative.
-        * The Facilitator will explicitly reach out to team leads, existing PDs, and the Council for feedback
+        * The facilitator will explicitly reach out to team leads, existing PDs, and the Council for feedback
     * This 10-day period is equivalent to the Change Round in the "Election Meeting" step; representatives may change their nominations in advance of the meeting, this does not require restarting the 10-day period.
     * The facilitator will share the names of all nominees with the Foundation, who will set up an online election poll.
         * In the past rounds, the poll was set up by @BecRumbul
@@ -71,7 +71,7 @@ The Council can also ask the Foundation to provide a staff member, but that shou
 
 The election meeting is comprised of all members of the Leadership Council who will actively participate in the consensus process as well as the facilitator who will facilitate that process.
 
-The facilitator schedules the meeting. This is typically done at the same time and day of the week as the Council meeting, but on an off week (i.e. Friday when there's no scheduled Council meeting). In 2025, the meeting took 2.5 hours, the previous years took 1.5. The facilitator must share this expectation and should consider scheduling it earlier, if possible.
+The facilitator schedules the meeting. This is typically done at the same time and day of the week as the Council meeting, but on an off week (i.e. Friday when there's no scheduled Council meeting). In 2025, the meeting took 2.5 hours, compared to 1.5 in previous years. The facilitator must share this expectation and should consider scheduling it earlier, if possible.
 
 If a Council member is unable to attend the Election Meeting or needs to recuse themself, the team they represent will select another member to act in their stead.
 
@@ -79,10 +79,10 @@ The facilitator will create a HackMD document containing:
 
 * The candidates
 * Their statements
-* Feedback we've received
-* "Discussion" section to capture everyone's thoughts on each candidate
-* "Preferences" section with a table
-* "Selection" section
+* Feedback received
+* A "Discussion" section to capture everyone's thoughts on each candidate
+* A "Preferences" section with a table
+* A "Selection" section
 
 The Preferences section looks like this:
 
@@ -106,11 +106,9 @@ The first column lists all the LC members and stand-ins who cast the votes. The 
 
 Each Council member will share their (non-binding) preference on each candidate in isolation. The actual discussion and election process is described in the "Election Meeting" section below.
 
-NOTE: The facilitator must ensure that the document is accessible to every voting member and *no one else*. In particular, if an existing Council member is among the candidates, the hackmd cannot created under the Leadership Council hackmd organisation.
+NOTE: The facilitator must ensure that the document is accessible to every voting member and *no one else*. In particular, if an existing Council member is among the candidates, the document cannot be created under the Leadership Council HackMD organisation.
 
-In 2025, the facilitator created a document in their personal account, set the "Read" and "Write" Note permissions to "Signed-in users" and took care to only share the link with the voting members.
-
-After the meeting, they set the permission to "Only me".
+For example, in 2025, the facilitator created a document in their personal account, set the "Read" and "Write" Note permissions to "Signed-in users" and took care to only share the link with the voting members. After the meeting, they set the permission to "Only me".
 
 This is to work around the fact that our free HackMD accounts don't allow sharing a private note with more than three other people. The facilitator should investigate other solutions ahead-of-time.
 
@@ -127,7 +125,7 @@ This is to work around the fact that our free HackMD accounts don't allow sharin
 * Facilitator proposes a candidate selection:
     * Based on gathered data, the facilitator suggests a set of candidates they believe will receive the group's consent.
     * The proposal should contain the full set of proposed PDs rather than selecting them one by one
-      * That way, the Council can consider any potential conflicts etc. in that group as a whole
+      * That way, the Council can consider any potential conflicts and related concerns within the group as a whole
 * Seek objections to the facilitator's proposal
 * Finalize the selection:
     * Discuss and attempt to resolve any objections, if possible.
@@ -155,13 +153,13 @@ candidates (for example, the Council finds blocking objections to all
 candidates), the Council will postpone the election process to give a chance to
 troubleshoot and find an approach that is more likely to be successful. We do
 not specify how this will happen, but the council would likely convene a
-subcommittee to work on the issue and report back to the council.
+subcommittee to work on the issue and report back to the Council.
 
 ### Affiliation Limits
 
-There can be **at most 1** Project Director employed by a company that's a [*corporate member* of the Foundation](https://rustfoundation.org/members/)[^3][^4].
+There can be **at most one** Project Director employed by a company that's a [*corporate member* of the Foundation](https://rustfoundation.org/members/)[^3][^4].
 
-There are no affiliation limits for companies that aren't corporate members.
+Affiliation limits only apply to companies that are corporate (Platinum, Gold, or Silver) members.
 
 ### Conflicts of Interest
 
