@@ -23,12 +23,7 @@ The purpose of this policy is to outline a clear and efficient process for elect
     * **Goals of the facilitator role**
         * Clearly documenting and communicating the process and announcing and supporting its execution.
         * Tracking, reviewing, and documenting the effectiveness of the process.
-* Review Role Description ([example](https://github.com/rust-lang/rfcs/pull/3392#issuecomment-1505697944)). The facilitator role description must contain at least the following content:
-    * Goals
-    * Time Investment
-    * Responsibilities
-    * Qualifications
-    * Term
+* Review the [PD role description](https://github.com/rust-lang/leadership-council/blob/main/roles/rust-foundation-project-director.md).
 
 The facilitator role is time-consuming and may be better suited for someone already being paid to work on the Project. A Project Manager is a good option, as this role fits well within their responsibilities.
 
@@ -38,7 +33,7 @@ The Council can also ask the Foundation to provide a staff member, but that shou
 
 * Gather nominations
     * The nomination process begins with a public announcement made on public communication channels from the facilitator chosen in the Setup phase. Council representatives and team leads should help publicize this announcement to their teams as well. Past examples:
-        *  [Inside Rust Blog](https://blog.rust-lang.org/inside-rust/2025/08/20/electing-new-project-directors-2025/)
+        * [Inside Rust Blog](https://blog.rust-lang.org/inside-rust/2025/08/20/electing-new-project-directors-2025/)
         * [Zulip](https://rust-lang.zulipchat.com/#narrow/channel/392734-council/topic/2025.20project.20director.20elections/near/535321402)
         * Emailing `all@rust-lang.org`
     * The announcement will explicitly spell out the "Affiliation Limits" section below.
@@ -67,7 +62,7 @@ The Council can also ask the Foundation to provide a staff member, but that shou
         * The poll **doesn't allow changing one's vote** after it's cast. The Council should verify access, but they must *only cast the vote at the appropriate time* during the Election Meeting
 
 
-### Election Meeting preparation
+### Election Meeting Preparation
 
 The election meeting is comprised of all members of the Leadership Council who will actively participate in the consensus process as well as the facilitator who will facilitate that process.
 
