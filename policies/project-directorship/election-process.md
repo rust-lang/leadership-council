@@ -42,24 +42,24 @@ The Council can also ask the Foundation to provide a staff member, but that shou
       * Nominations do not have to be members of the Council representative's respective team but must be project members.
     * Subteams can utilize any process they prefer, but we recommend following a similar approach to the process outlined in the "Election Meeting" section below
     * The facilitator should reach out directly to team leads to:
-        * Bring the process to their teams
-        * Collect nominations from their members
-        * NOTE: The leads are not tasked with nominating candidates directly (though they can do so, just like any other Project member)
-    * The facilitator may specify a minimum or maximum time period
-	* It is recommended to start the process at least 2 months before the board meeting attended by the new PDs
+        * Bring the process to their teams.
+        * Collect nominations from their members.
+        * NOTE: The leads are not tasked with nominating candidates directly (though they can do so, just like any other Project member).
+    * The facilitator may specify a minimum or maximum time period.
+	* It is recommended to start the process at least 2 months before the board meeting attended by the new PDs.
 * Share nominations
     * *Nominations from all teams will be pooled together. In other words, teams do not have to nominate a set of directors as a whole. They may nominate any number of potential directors.*
     * Each team representative must share their team's nominations and the reasoning for their nominations first with the candidates being nominated, and then, for those candidates who consent to be nominated, with the council's selected facilitator.
-    * Each consenting candidate must write a statement on their candidacy
-      * The facilitator must clarify that these statements will be made public
-      * For reference, here are the [2025](https://hackmd.io/@rust-leadership-council/S1WrrVY_ex) and [2024](https://hackmd.io/@rust-leadership-council/B1aNREWZye) candidate statements
+    * Each consenting candidate must write a statement on their candidacy.
+      * The facilitator must clarify that these statements will be made public.
+      * For reference, here are the [2025](https://hackmd.io/@rust-leadership-council/S1WrrVY_ex) and [2024](https://hackmd.io/@rust-leadership-council/B1aNREWZye) candidate statements.
     * The facilitator must publicly share the pool of all nominations, statements, and reasonings at least ten days before the final election meeting.
         * This allows other teams to share feedback or objections about candidates their team didn't initially consider with their representative.
-        * The facilitator will explicitly reach out to team leads, existing PDs, and the Council for feedback
+        * The facilitator will explicitly reach out to team leads, existing PDs, and the Council for feedback.
     * This 10-day period is equivalent to the Change Round in the "Election Meeting" step; representatives may change their nominations in advance of the meeting, this does not require restarting the 10-day period.
     * The facilitator will share the names of all nominees with the Foundation, who will set up an online election poll.
-        * In the past rounds, the poll was set up by @BecRumbul
-        * The poll **doesn't allow changing one's vote** after it's cast. The Council should verify access, but they must *only cast the vote at the appropriate time* during the Election Meeting
+        * In the past rounds, the poll was set up by @BecRumbul.
+        * The poll **doesn't allow changing one's vote** after it's cast. The Council should verify access, but they must *only cast the vote at the appropriate time* during the Election Meeting.
 
 
 ### Election Meeting Preparation
@@ -112,15 +112,15 @@ This is to work around the fact that our free HackMD accounts don't allow sharin
 
 * Share nominations
     * Write down nominations first[^1].
-    * Use a round format[^2] (e.g. [round format](https://www.sociocracyforall.org/on-rounds/))
-    * Nominations must include supporting reasoning 
+    * Use a round format[^2] (e.g. [round format](https://www.sociocracyforall.org/on-rounds/)).
+    * Nominations must include supporting reasoning .
 * Change Round
     * During the change round, every team member will share their current preferred nominees and the reasons for changes from the previous preferred nominees if that applies.
     * Note that the change round is driving around discussing and trying to select the best possible nominee(s) rather than discussing the full set of nominees. De-selecting a nominee from consideration in a given change round does not disqualify the nominee from being selected in future change rounds.
 * Facilitator proposes a candidate selection:
     * Based on gathered data, the facilitator suggests a set of candidates they believe will receive the group's consent.
-    * The proposal should contain the full set of proposed PDs rather than selecting them one by one
-      * That way, the Council can consider any potential conflicts and related concerns within the group as a whole
+    * The proposal should contain the full set of proposed PDs rather than selecting them one by one.
+      * That way, the Council can consider any potential conflicts and related concerns within the group as a whole.
 * Seek objections to the facilitator's proposal
 * Finalize the selection:
     * Discuss and attempt to resolve any objections, if possible.
@@ -129,7 +129,7 @@ This is to work around the fact that our free HackMD accounts don't allow sharin
     * Continue seeking consensus and addressing objections until a satisfactory candidate is selected.
         * Note that this process seeks to produce a candidate everyone is satisfied with and has no objections to. Avoid lengthy debates over preferences not related to objections or unmet requirements.
 * Each council member will privately vote in the election poll set up by the Foundation.
-    * The vote happens during the meeting itself
+    * The vote happens during the meeting itself.
 * After the meeting, the Facilitator will confirm with the Foundation whether:
     * All the votes were cast.
     * The results match the final selection.
