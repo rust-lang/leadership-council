@@ -247,3 +247,8 @@
 2026-04-20 Content team 2026 allocation
   assets:content  $15,000
   assets:council
+
+2026-04-24 Outreachy 2026 extra allocation
+  ; https://github.com/rust-lang/leadership-council/issues/288
+  assets:mentors:outreachy  $7,000
+  assets:council
