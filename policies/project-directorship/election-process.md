@@ -60,6 +60,9 @@ The Council can also ask the Foundation to provide a staff member, but that shou
     * The facilitator will share the names of all nominees with the Foundation, who will set up an online election poll.
         * In the past rounds, the poll was set up by @BecRumbul.
         * The poll **doesn't allow changing one's vote** after it's cast. The Council should verify access, but they must *only cast the vote at the appropriate time* during the Election Meeting.
+* Schedule a group call with the nominated candidates and existing Project Directors
+    * The PDs can provide details about the role and answer the candidates' questions.
+    * The facilitator will schedule this call after the nominations are closed.
 
 
 ### Election Meeting Preparation
