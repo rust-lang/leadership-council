@@ -386,7 +386,7 @@
 2026-04-30 Travel commitment excess 2026-04
   ; These are approved travel grants that requested more than was
   ; later paid.
-  assets:travel:committed  -$611.59  ; 1 x All Hands + RustWeek, 1x Rust in Paris.
+  assets:travel:committed  -$611.59  ; 1 x All Hands + RustWeek, 1 x Rust in Paris.
   assets:travel:free
 
 2026-05-04=2026-04-30 PM2 invoice
