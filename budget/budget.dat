@@ -397,6 +397,20 @@
   liabilities:payables  $14,316  ; Reported as $16,716 accounting for 2026-03 prepayment.
   assets:program-management
 
+2026-05-30 PM2 invoice
+  expenses:program-management  $7,200  ; 2026-05 -- 18 days.
+  expenses:program-management  $649  ; All Hands + RustWeek travel -- Transport.
+  expenses:program-management  $1,702  ; All Hands + RustWeek travel -- Hotel.
+  expenses:program-management  $264  ; All Hands + RustWeek travel -- Meals.
+  expenses:program-management  $608  ; All Hands + RustWeek travel -- Ticket.
+  liabilities:payables  -$10,423
+
+2026-05-31 PM1 invoice
+  expenses:program-management  $8,778  ; 2026-05 -- 19 days.
+  expenses:program-management  $27  ; All Hands + RustWeek travel -- Transport.
+  expenses:program-management  $96.70  ; All Hands + RustWeek travel -- Meals.
+  liabilities:payables  -$8901.70
+
 2026-05-31 Content team expenses 2026-05
   expenses:content  $2,876.32  ; RustWeek.
   assets:content
