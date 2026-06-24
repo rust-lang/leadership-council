@@ -396,3 +396,33 @@
 2026-05-04=2026-04-30 Program management payments
   liabilities:payables  $14,316  ; Reported as $16,716 accounting for 2026-03 prepayment.
   assets:program-management
+
+2026-05-31 Content team expenses 2026-05
+  expenses:content  $2,876.32 ; RustWeek
+  assets:content
+
+2026-05-31 compiler-ops invoices 2026-05
+  expenses:compiler-ops  $13,275.40 ; Feb-May
+  assets:compiler-ops 
+
+2026-05-31 Program management payments 2026-05
+  liabilities:payables  $19,324.70
+  assets:program-management
+
+2026-05-31 Travel commitments 2026-05
+  ; These are travel grants that we have approved contingent on later
+  ; receiving expense documentation.
+  assets:travel:committed  $400     ; Meeting between contributors
+  assets:travel:free
+
+2026-05-31 Travel payments 2026-05
+  ; These are travel grants that we had previously approved and have
+  ; now paid after receiving expense documentation.
+  expenses:travel  $29,009.66  ; 12 x All Hands + RustWeek, 2 x All Hands.
+  assets:travel:committed
+
+2026-05-31 Travel commitment excess 2026-05
+  ; These are approved travel grants that requested more than was
+  ; later paid.
+  assets:travel:committed  -$559.68  ; 4 x All Hands + RustWeek.
+  assets:travel:free
