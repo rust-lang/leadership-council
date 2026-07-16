@@ -441,6 +441,11 @@
   assets:travel:committed  -$559.68  ; 4 x All Hands + RustWeek.
   assets:travel:free
 
+2026-06-25 Funding team 2026-06 allocation
+  ; https://github.com/rust-lang/leadership-council/issues/304
+  assets:funding  $50,000
+  assets:council
+
 2026-06-30 PM1 invoice
   expenses:program-management  $9240  ; 2026-06 -- 20 days.
   liabilities:payables
