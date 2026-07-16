@@ -440,3 +440,15 @@
   ; later paid.
   assets:travel:committed  -$559.68  ; 4 x All Hands + RustWeek.
   assets:travel:free
+
+2026-06-30 PM1 invoice
+  expenses:program-management  $9240  ; 2026-06 -- 20 days.
+  liabilities:payables
+
+2026-07-01=2026-06-30 PM2 invoice
+  expenses:program-management  $8000  ; 2026-06 -- 20 days.
+  liabilities:payables
+
+2026-07-10 PM1 invoice
+  expenses:program-management  $2310  ; 2026-07 -- 5 days.
+  liabilities:payables
