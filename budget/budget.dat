@@ -457,3 +457,13 @@
 2026-07-10 PM1 invoice
   expenses:program-management  $2310  ; 2026-07 -- 5 days.
   liabilities:payables
+
+2026-07-17 Compiler-ops 2026-07 deallocation
+  ; https://github.com/rust-lang/leadership-council/pull/314
+  assets:compiler-ops  -$21,660.46
+  assets:council
+
+2026-07-17 Program management 2026-07 deallocation
+  ; https://github.com/rust-lang/leadership-council/pull/314
+  assets:program-management  -$132,761.79
+  assets:council
