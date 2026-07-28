@@ -27,7 +27,7 @@ The Council may create additional streams for specific projects. Consult the str
 There are several private streams reserved for topics that must be kept private. See the [private decision guidelines][private-decisions] for the types of discussions that may need to be private. Council members should avoid the private channels unless absolutely necessary. These channels are:
 
 * `#council/private` — Private discussions among the council.
-* `#council-mods-private` — Private discussions involving both the council and moderation teams.
+* `#council-mediators-private` — Private discussions involving both the council and moderation teams.
 * `#foundation-council-private` — Private discussions involving both the council and the Foundation.
 * `#council-project-directors/private` — Private discussions involving both the council and Foundation Project Directors.
 
