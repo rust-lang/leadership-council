@@ -2,47 +2,32 @@
 
 ## Motivation
 
-There has been some interest in people joining meetings in a purely observational manner. (See [previous discussion on Zulip](https://rust-lang.zulipchat.com/#narrow/stream/392734-council/topic/Observing.20meetings.3F).) Further discussion on the specifics of a proposal happened on [Zulip](https://rust-lang.zulipchat.com/#narrow/stream/392734-council/topic/Meeting.20observers) and [in a council meeting](https://github.com/rust-lang/leadership-council/blob/245b22a105546a680aad582cf856311a80e93baf/minutes/sync-meeting/2023-07-20.md).
+When making policy, the Leadership Council strives for transparency. Council members are accountable to the teams they represent, and for that accountability to be effective, teams must be able to see the work of their representatives. Transparency also benefits the council directly. When people in the Project know what the council is thinking, they can provide useful and relevant information and feedback to the council at the right time. Encouraging ideas from outside the council helps to avoid groupthink.
 
-## Considerations
-
-* Unless otherwise necessary, more transparency and openness is usually better
-    * Separate processes (such as releasing minutes) may fulfill this, but are out of scope for this proposal
-* Any transparency and openness should not negatively affect council processes and procedures, within reason
-    * Public meetings (to any extent) do have the potential for disruption, either through intentional means (harassment of council members) or through unintentional means (less comfort in being able to speak candidly in some situations)
-    * Some overhead for managing access to meetings is expected
-* There will be portions of some meetings that require attendance of only council members, or potentially some set of invited people
-* It may be difficult to draw a line between private and public meetings that most satisfies the above points
+As one direct form of transparency, the council allows Project members to join its meetings. This document discusses that process.
 
 ## Process for meeting observers
 
 ### Request for observation
 
-As an initial iteration, any Project member (as currently defined by anyone listed in the 'all' team defined in the team repo) may join the public portion of council meetings to observe. No particular method of communication is required; those interested should either post in the [council zulip stream](https://rust-lang.zulipchat.com/#narrow/stream/392734-council), send an email to `council@rust-lang.org`, or (if necessary) message a council member. At least for now, non-Project members will not be admitted as meeting observers.
+Any Project member (anyone listed in the [`all`](https://github.com/rust-lang/team/blob/main/teams/all.toml) team) may join the public portion of a council meeting. If you're interested in joining, post in [#council](https://rust-lang.zulipchat.com/#narrow/stream/392734-council), send an email to `council@rust-lang.org`, or send a message to a council member.
+
+You'll be sent a link for the meeting. Please keep this link private.
 
 ### Meeting process
 
-When a meeting is scheduled, those who have requested to observe that meeting will get a calendar invite, in addition to the council. A minutes link will not be shared (since it may contain private information), but a public agenda link may be.
+At the start of the meeting, you may be asked by the facilitator to *check in*. This is an opportunity to introduce yourself briefly, say how you're doing, and mention anything you're looking forward to in the meeting.
 
-During the meeting, observers should be mostly non-interactive and, unless otherwise noted, no chat messages should be sent, and video and audio should be off. However, there may be times, like during check-ins and check-outs, where observers are encouraged to share their experience in chat. Observers should not record or screenshot the meeting. If a meeting has a private session, then observers will either leave or be kicked.
+After check-ins, the council will agree on its agenda and proceed to the business of the meeting.
 
-Intentional disruption of the meeting will result in an observer being kicked from the meeting and may result in the observer being barred from future meetings.
+This is a focused business meeting. Please read our [meeting decorum](synchronous-meetings.md#meeting-decorum) policy. You are invited to participate in the meeting, by raising a hand, when you have something to share that would be useful for the council to hear. Keep in mind the council often has much to cover and limited meeting time, so please be brief and focus on keeping the signal-to-noise ratio high. You might not have as much context as the council members; due to that, it's often prudent to be somewhat reserved. Most of the space in the meeting needs to be saved for those making the decisions and for those with the most information that can inform them. Take cues from the facilitator.
 
-It is expected that, by default, those joining as meeting observers will follow the above guidelines. However, there may be times where the council will invite guests to participate beyond the role and guidelines of meeting observers. This may happen ahead of the meeting time or, at the discretion of the meeting participants, during the meeting itself. Under these circumstances, adherence to meeting observer guidelines is not expected.
+At the end of the meeting, there will be a *check-out*, and you may be invited to share your thoughts. This is an opportunity to share your experience of how the meeting went and what might be improved for future meetings.
+
+Please don't record or take screenshots during the meeting.
+
+Occasionally, the council has *closed sessions*. For these, you'll be asked to drop off the call.
 
 ### Discretion
 
-Observers may share what they observe in the meeting.
-They must use discretion, recognizing that sensitive issues may be discussed even in public sessions.
-People in meetings are speaking freely, and words taken out of context can lead to misunderstandings.
-It should be made clear that the things they share are their own observations and not official statements of or on behalf of the council.
-
-## Alternatives
-
-### Extending meeting observers to non-Project members
-
-This proposal limits meeting observers to Project members. A previous iteration of this proposal instead extended to people outside the Project, with the requirement of some reasoning for wanting to observe. By allowing only Project members without reasoning, there is limited chance of ill-will while simultaneously allowing low-friction for those wanting to observe. It may make sense to extend meeting observers to the general public at some point in the future.
-
-### Chat-only interaction
-
-This proposal takes the conservative approach of allowing no interaction from observers (unless asked specifically), including chat. For chat specifically, this was chosen because the council currently tries to limit chat messages, and having observers sending chat messages may be a distraction to the meeting itself. However, allowing chat interaction from observers during meetings could allow questions to be raised, comments to be made, or to ask for clarifications. This would likely need some monitoring from council members. Similar questions, comments, and clarifications can still be followed-up on Zulip following the meeting, regardless.
+You may share what you observe in the meeting. But we ask for your discretion. Sometimes sensitive matters are discussed even in public sessions. Please act in the best interest of the Project when deciding what to share. People speak freely in meetings; taking words out of context can lead to troublesome misunderstandings. Please ensure it's clear that the things you share are your own observations, not official statements of the council.
