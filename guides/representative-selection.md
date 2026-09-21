@@ -14,6 +14,8 @@ Remember that Council representatives can be members of a subteam[^subteam], if 
 
 It is recommended to rotate Representatives when possible. The extra responsibilities of being a Representative *and* participating as a team member can push people closer to burnout. It is also important to spread the experience across more people, which can help bring new ideas and perspectives, and help bring a better understanding of how the Rust Project works to more people.
 
+It is also strongly recommended to consult with the moderation team to discuss candidates during this process. To respect the privacy of candidates, this should be done privately and mods would only share sufficient, minimal, details to be able to evaluate whether the concern should affect the candidates. This is to help teams not miss important, possibly cross-team, considerations that could affect their choice.
+
 [candidate criteria]: https://forge.rust-lang.org/governance/council.html#candidate-criteria
 [representative role]: https://github.com/rust-lang/leadership-council/blob/676d7f18723fead5994019dd15bea5fb5c4062e0/roles/council-representative.md
 
@@ -30,6 +32,7 @@ Representative selection should ideally be done by consensus, not by vote or sim
     - Facilitator asks for nominations, including self-nominations.
     - Nominations should be accompanied by supporting reasoning.
     - Anyone can share concerns about nominees privately with the facilitator or other trusted team members or the mod team, but objections happen later in the process.
+    - The facilitator can reach out to the mod team privately for possible moderation considerations about nominees.
 3. Discuss the nominated candidates:
     - Team members have the opportunity to discuss nominations.
     - Nominations can be withdrawn or added during this time.
@@ -37,6 +40,7 @@ Representative selection should ideally be done by consensus, not by vote or sim
     - Based on gathered data, the facilitator suggests a candidate they believe is likely to receive the group's consent.
 5. Seek objections to the facilitator's proposal:
     - Team members can provide objections, which may be submitted privately to the facilitator if desired. Members may also ask that their objections be kept anonymous. Members may also reach out to the moderation team if they want help with submitting anonymous feedback or need other assistance.
+    - The facilitator can reach out to the mod team privately for possible moderation considerations about the candidate.
 6. Finalize representative selection:
     - Discuss and attempt to resolve any objections, if possible.
     - If the proposed candidate has no remaining objections, select them as the Council representative.
