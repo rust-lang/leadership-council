@@ -87,6 +87,8 @@ The Preferences section looks like this:
 `+0`: OK by me.
 `+1`: Full support.
 
+Note that this represents a _range_ from `-1` to `+1`, explaining the `.5`s below.
+
 |      | Candidate 1 | Candidate 2 | Candidate 3 | Candidate 4 | Candidate 5 |
 |------|-------------|-------------|-------------|-------------|-------------|
 | LC A | 0           | +1          | +1          | 0           | -.5         |
