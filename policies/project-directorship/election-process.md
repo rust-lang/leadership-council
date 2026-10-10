@@ -48,10 +48,12 @@ The Council can also ask the Foundation to provide a staff member, but that shou
 * Share nominations
     * *Nominations from all teams will be pooled together. In other words, teams do not have to nominate a set of directors as a whole. They may nominate any number of potential directors.*
     * Each team representative must share their team's nominations and the reasoning for their nominations first with the candidates being nominated, and then, for those candidates who consent to be nominated, with the council's selected facilitator.
-    * Each consenting candidate must write a statement on their candidacy.
-      * The facilitator must clarify that these statements will be made public.
-      * For reference, here are the [2025](https://hackmd.io/@rust-leadership-council/S1WrrVY_ex) and [2024](https://hackmd.io/@rust-leadership-council/B1aNREWZye) candidate statements.
-    * The facilitator must publicly share the pool of all nominations, statements, and reasonings at least ten days before the final election meeting.
+    * Each consenting candidate must write a statement on their candidacy. The statement consists of two parts (public and private).
+      * The public part should introduce the candidate and the work and goals that they want to achieve in the PD role. The facilitator must clarify that this part will be made public. For reference, here are the [2025](https://hackmd.io/@rust-leadership-council/S1WrrVY_ex) and [2024](https://hackmd.io/@rust-leadership-council/B1aNREWZye) candidate public statements.
+      * The private part should describe:
+        * The current primary affiliation of the candidate, so that we can ensure that [affiliation limits](#affiliation-limits) are met.
+        * Expected time availability of the candidate for PD work (e.g. N hours per week), and information whether additional funding for PD work would increase that time availability. 
+    * The facilitator must publicly share the pool of all nominations, public statements, and any public feedback at least ten days before the final election meeting.
         * This allows other teams to share feedback or objections about candidates their team didn't initially consider with their representative.
         * The facilitator will explicitly reach out to team leads, existing PDs, and the Council for feedback.
     * This 10-day period is equivalent to the Change Round in the "Election Meeting" step; representatives may change their nominations in advance of the meeting, this does not require restarting the 10-day period.
@@ -65,29 +67,24 @@ The Council can also ask the Foundation to provide a staff member, but that shou
 
 ### Election Meeting Preparation
 
-The election meeting is comprised of all members of the Leadership Council who will actively participate in the consensus process as well as the facilitator who will facilitate that process.
+The election meeting comprises all members of the Leadership Council who will actively participate in the consensus process as well as the facilitator who will facilitate that process.
 
 The facilitator schedules the meeting. This is typically done at the same time and day of the week as the Council meeting, but on an off week (i.e. Friday when there's no scheduled Council meeting). In 2025, the meeting took 2.5 hours, compared to 1.5 in previous years. The facilitator must share this expectation and should consider scheduling it earlier, if possible.
 
-If a Council member is unable to attend the Election Meeting or needs to recuse themself, the team they represent will select another member to act in their stead.
+If a Council member is unable to attend the Election Meeting or needs to recuse themself, the team they represent will select another member to act in their stead. We will use the term "voter" for Council members or their stand-ins who will vote.
 
-The facilitator will create a HackMD document containing:
+The facilitator will create a shared online (e.g. HackMD) document containing:
 
 * The candidates
-* Their statements
+* Their statements (both the public and the private part)
 * Feedback received
 * A "Discussion" section to capture everyone's thoughts on each candidate
 * A "Preferences" section with a table
 * A "Selection" section
 
-The Preferences section looks like this:
+The Preferences section is a table where voters will input their preferences for the individual candidates during the election meeting. Each preference will be a number in the `[-1, 1]` interval, where `-1` means a strong objection, `0` means no particular strong opinion about the candidate, and `+1` means full support. It is possible to use decimal values (e.g. `-0.5` or `+0.3`) to capture nuance in preferences.
 
-`-1`: Strong objection.
-`-0`: Not my preference, but no objection.
-`+0`: OK by me.
-`+1`: Full support.
-
-Note that this represents a _range_ from `-1` to `+1`, explaining the `.5`s below.
+Here is how that table might look like:
 
 |      | Candidate 1 | Candidate 2 | Candidate 3 | Candidate 4 | Candidate 5 |
 |------|-------------|-------------|-------------|-------------|-------------|
@@ -101,9 +98,7 @@ Note that this represents a _range_ from `-1` to `+1`, explaining the `.5`s belo
 |------|-------------|-------------|-------------|-------------|-------------|
 | Sum  | +5          | -1          | 3           | +1.5        | +5.5        |
 
-The first column lists all the LC members and stand-ins who cast the votes. The first row lists all the PD candidates.
-
-Each Council member will share their (non-binding) preference on each candidate in isolation. The actual discussion and election process is described in the "Election Meeting" section below.
+The first column lists all the voters. The first row lists all the PD candidates. Before the meeting starts, the individual voter preferences will be left empty.
 
 NOTE: The facilitator must ensure that the document is accessible to every voting member and *no one else*. In particular, the document cannot be created under the Leadership Council HackMD organization.
 
@@ -112,12 +107,14 @@ For example, in 2025, the facilitator created a document in their personal accou
 
 ### Election Meeting
 
-* Share nominations
-    * Write down nominations first[^1].
+* Each voter will determine their (non-binding) preference on each candidate *in isolation*, e.g. in an offline text document, to avoid introducing unnecessary bias by examining other voters' preference between a given voter inputs their own preferences[^1].
+    * Once the facilitator confirms that all voters have their initial preferences settled down, every voter will copy their preferences into the preferences table in the shared online document.
+* Each voter in turn will shortly talk about their candidate preferences.
     * Use a round format[^2] (e.g. [round format](https://www.sociocracyforall.org/on-rounds/)).
-    * Nominations must include supporting reasoning .
+    * The voter should include supporting reasoning for the candidates that they prefer.
 * Change Round
-    * During the change round, every team member will share their current preferred nominees and the reasons for changes from the previous preferred nominees if that applies.
+    * Once everyone shared their preferences and thoughts on the candidates, a set of change rounds begin, where voters can update their preferences based on what they heard from the other votes.
+    * During a change round, every voter will share their current preferred nominees and the reasons for changes from the previous preferred nominees if that applies.
     * Note that the change round is driving around discussing and trying to select the best possible nominee(s) rather than discussing the full set of nominees. De-selecting a nominee from consideration in a given change round does not disqualify the nominee from being selected in future change rounds.
 * Facilitator proposes a candidate selection:
     * Based on gathered data, the facilitator suggests a set of candidates they believe will receive the group's consent.
@@ -130,6 +127,7 @@ For example, in 2025, the facilitator created a document in their personal accou
     * If objections persist and the current proposal reaches an impasse, the facilitator should make a new proposal based on the discussion and feedback received.
     * Continue seeking consensus and addressing objections until a satisfactory candidate is selected.
         * Note that this process seeks to produce a candidate everyone is satisfied with and has no objections to. Avoid lengthy debates over preferences not related to objections or unmet requirements.
+* Before voting, double check that the selected candidates comply with [affiliation limits](#affiliation-limits) and the [conflicts of interest](#conflicts-of-interest) rules.
 * Each council member will privately vote in the election poll set up by the Foundation.
     * The vote happens during the meeting itself.
 * After the meeting, the Facilitator will confirm with the Foundation whether:
@@ -140,10 +138,8 @@ For example, in 2025, the facilitator created a document in their personal accou
     * Verifying eligibility.
     * Onboarding new directors.
     * Announcing the new directors ([example](https://foundation.rust-lang.org/news/announcing-the-rust-foundation-s-newest-project-director-carol-nichols/)).
-* A council member should help with:
-    * Update the private Zulip channel membership (`council-project-directors/private`).
-    * Update the director Zulip group `@foundation-project-directors`.
-    * Update the [`foundation-board-project-directors`](https://github.com/rust-lang/team/blob/master/teams/foundation-board-project-directors.toml) team.
+* Once the Foundation has confirmed the vote, and the eligibility of the selected candidates, the facilitator will notify both the successful and the unsuccessful candidates of the election results.
+* A council member should help with updating the [`foundation-board-project-directors`](https://github.com/rust-lang/team/blob/master/teams/foundation-board-project-directors.toml) team.
 
 If for some reason the Council is unable to reach consensus on a group of
 candidates (for example, the Council finds blocking objections to all
@@ -181,7 +177,7 @@ This technically can happen, if the Council members all express agreement on a s
 
 There are several possibilities for how to proceed in this case. As one possibility, the teams whose representatives voted against the consensus may decide their representative is no longer trustworthy to represent them and thus appoint a new Council Representative. The new Council could then choose to vote again to replace the Project Directors. Both Council Members and Project Directors can be replaced at any time, even if this does not line up with the usual term rotation.
 
-[^1]: During the nomination round, it is incredibly tempting to just go with the group energy, especially when you are speaking late in the Round. Writing down your nomination will encourage you to share your genuine nomination without getting swayed too soon (or not at all). So often, the best ideas are the ones that seem peripheral at first.
+[^1]: It is incredibly tempting to just go with the group energy. Writing down your preferences in advance will encourage you to share your genuine preferences without getting swayed too soon (or not at all). So often, the best ideas are the ones that seem peripheral at first.
 [^2]: A round is a conversation format where everyone speaks, one by one, until everyone in the group has spoken. It starts with the facilitator asking a specific question or prompt to one person and then proceeds one by one until everyone has shared. In a round, people can share their initial reactions and reflections on what has been stated before them. It is a way to ensure that everyone's voice is heard equally, and it gives maximum input both from individuals and group wisdom.
 [^3]: Project Director [Requirements and Eligibility](../../roles/rust-foundation-project-director.md#requirements-and-eligibility)
 [^4]: [Section 4.3(g)](https://rustfoundation.org/policy/bylaws/#section-4.3-nomination%2C-election-and-term-of-office-of-directors) of the Foundation Bylaws.
