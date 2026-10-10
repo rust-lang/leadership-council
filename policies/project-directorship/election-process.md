@@ -53,7 +53,7 @@ The Council can also ask the Foundation to provide a staff member, but that shou
       * The private part should describe:
         * The current primary affiliation of the candidate, so that we can ensure that [affiliation limits](#affiliation-limits) are met.
         * Expected time availability of the candidate for PD work (e.g. N hours per week), and information whether additional funding for PD work would increase that time availability. 
-    * The facilitator must publicly share the pool of all nominations, public statements, and reasonings at least ten days before the final election meeting.
+    * The facilitator must publicly share the pool of all nominations, public statements, and any public feedback at least ten days before the final election meeting.
         * This allows other teams to share feedback or objections about candidates their team didn't initially consider with their representative.
         * The facilitator will explicitly reach out to team leads, existing PDs, and the Council for feedback.
     * This 10-day period is equivalent to the Change Round in the "Election Meeting" step; representatives may change their nominations in advance of the meeting, this does not require restarting the 10-day period.
