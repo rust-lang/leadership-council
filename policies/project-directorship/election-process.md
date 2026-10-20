@@ -130,7 +130,7 @@ RFC][rfc3392] for handling conflicts of interest.
 A potential conflict of interest may be e.g. the PD candidate being an employee or a colleague of a Council member (or vice versa). A special case is when a PD candidate is a Council member, in that case that is a clear conflict of interest that requires no further elaboration.
 
 Any potential conflicts of interests should be flagged and discussed by Council members publicly before the election meeting:
-- If the Council determines that the potential conflict is minor or not applicable, it does not require any further action.
+- If the Council determines that no conflict of interest exists, it does not require any further action.
 - If the Council determines that there is an actual conflict of interest, then the affected Council members should not participate in further discussions about this PD election, and they should not be a part of the election meeting and the vote. Instead of them, the team that they represent will select another representative who will participate in the election process and cast the vote. The selected representative should not themselves be in another conflict of interest, of course.
 
 The justification and decisions about any identified conflicts of interest should be publicly shared by the Council with members of the Rust Project before the election meeting happens.
