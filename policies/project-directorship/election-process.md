@@ -129,7 +129,7 @@ RFC][rfc3392] for handling conflicts of interest.
 
 A potential conflict of interest may be e.g. the PD candidate being an employee or a colleague of a Council member (or vice versa). A special case is when a PD candidate is a Council member, in that case that is a clear conflict of interest that requires no further elaboration.
 
-Any potential conflicts of interests should be flagged and discussed by Council members publicly before the election meeting:
+Any potential conflicts of interest should be flagged and discussed within the Council before the election meeting. The Council members whose potential conflict is being evaluated may provide information but do not take part in the determination, which is made by the remaining Council members in line with the conflict of interest policy:
 - If the Council determines that no conflict of interest exists, it does not require any further action.
 - If the Council determines that there is an actual conflict of interest, then the affected Council members should not participate in further discussions about this PD election, and they should not be a part of the election meeting and the vote. Instead of them, the team that they represent will select another representative who will participate in the election process and cast the vote. The selected representative should not themselves be in another conflict of interest, of course.
 
