@@ -159,7 +159,7 @@ If a potential conflict of interest surfaces during the election meeting, the me
     * If objections persist and the current proposal reaches an impasse, the facilitator should make a new proposal based on the discussion and feedback received.
     * Continue seeking consensus and addressing objections until a satisfactory candidate is selected.
         * Note that this process seeks to produce a candidate everyone is satisfied with and has no objections to. Avoid lengthy debates over preferences not related to objections or unmet requirements.
-* Before voting, double check that the selected candidates comply with [affiliation limits](#affiliation-limits).
+* Before voting, double check that the selected candidates comply with [affiliation limits](#affiliation-limits) and that any [conflicts of interest](#conflicts-of-interest) have been determined as described in [Flagging affiliation limits and conflicts of interest](#flagging-affiliation-limits-and-conflicts-of-interest).
 * Each council member will privately vote in the election poll set up by the Foundation.
     * The vote happens during the meeting itself.
 * After the meeting, the Facilitator will confirm with the Foundation whether:
