@@ -133,7 +133,9 @@ Any potential conflicts of interest should be flagged and discussed within the C
 - If the Council determines that no conflict of interest exists, it does not require any further action.
 - If the Council determines that there is an actual conflict of interest, then the affected Council members should not participate in further discussions about this PD election, and they should not be a part of the election meeting and the vote. Instead of them, the team that they represent will select another representative who will participate in the election process and cast the vote. The selected representative should not themselves be in another conflict of interest, of course.
 
-The justification and decisions about any identified conflicts of interest should be publicly shared by the Council with members of the Rust Project before the election meeting happens.
+The Council's decisions about any identified conflicts of interest, including which representatives will not take part in the election, should be shared with members of the Rust Project before the election meeting. The affiliations behind those decisions do not need to be shared.
+
+If a potential conflict of interest surfaces during the election meeting, the meeting pauses and the Council members not subject to it make the determination without the affected members present, following the same rules as above. If one surfaces after the election, the Council members not subject to it determine whether a conflict existed and confirm whether the result stands, and both the determination and the confirmation are recorded alongside the election outcome.
 
 ### Election Meeting
 
