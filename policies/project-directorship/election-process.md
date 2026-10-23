@@ -108,7 +108,7 @@ For example, in 2025, the facilitator created a document in their personal accou
 
 ### Flagging affiliation limits and conflicts of interest
 
-Once the list of PD candidates is known, the facilitator should evaluate whether there are any potential conflicts of interest between the PD candidates and Council members, and whether it is possible that affiliation limits might be breached if a given set of PDs were to be elected. The facilitator should raise any potential conflicts with the Council no later than when the candidate pool is shared (at least ten days before the election meeting), so that any determination and any replacement representative can be settled before the meeting. See below for more context.
+Once the list of PD candidates is known, the facilitator should follow the processes below to determine whether there are any conflicts of interest between the PD candidates and Council members, and whether it is possible that affiliation limits might be breached if a given set of PDs were to be elected. The facilitator should raise any potential conflicts with the Council no later than when the candidate pool is shared (at least ten days before the election meeting), so that any determination and any replacement representative can be settled before the meeting. See below for more context.
 
 #### Affiliation Limits
 
