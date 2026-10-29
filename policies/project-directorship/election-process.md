@@ -12,6 +12,7 @@ The purpose of this policy is to outline a clear and efficient process for elect
 * Create a psychologically safe environment that values minority perspectives and encourages positive feedback, encouragement, and tolerance rather than personal preference or criticism.
 * Ensure participants feel positive about their interactions and the execution of the process.
 * Ensure the process is compliant with Rust Foundation bylaws and Delaware corporation law.
+* Ensure the process is compliant with Rust Leadership Council policies and conflict of interest rules.
 
 ## Procedure
 
@@ -34,7 +35,7 @@ The Council can also ask the Foundation to provide a staff member, but that shou
         * [Inside Rust Blog](https://blog.rust-lang.org/inside-rust/2025/08/20/electing-new-project-directors-2025/)
         * [Zulip](https://rust-lang.zulipchat.com/#narrow/channel/392734-council/topic/2025.20project.20director.20elections/near/535321402)
         * Emailing `all@rust-lang.org`
-    * The announcement will explicitly spell out the "Affiliation Limits" section below.
+    * The announcement will explicitly spell out the "Affiliation Limits" and "Conflicts of Interest" sections below.
     * The announcement will specify a date by which nominations must be submitted. This date will be no less than two weeks from the date the announcement goes out, and no more than four weeks.
     * Council representatives collaborate with their subteams to collect nominations on behalf of their branch of the organization tree.
       * Nominations do not have to be members of the Council representative's respective team but must be project members.
@@ -52,6 +53,7 @@ The Council can also ask the Foundation to provide a staff member, but that shou
       * The public part should introduce the candidate and the work and goals that they want to achieve in the PD role. The facilitator must clarify that this part will be made public. For reference, here are the [2025](https://hackmd.io/@rust-leadership-council/S1WrrVY_ex) and [2024](https://hackmd.io/@rust-leadership-council/B1aNREWZye) candidate public statements.
       * The private part should describe:
         * The current primary affiliation of the candidate, so that we can ensure that [affiliation limits](#affiliation-limits) are met.
+        * Any potential conflicts of interest with current Council members that are known to the candidate, for example being their colleague from the same company. 
         * Expected time availability of the candidate for PD work (e.g. N hours per week), and information whether additional funding for PD work would increase that time availability. 
     * The facilitator must publicly share the pool of all nominations, public statements, and any public feedback at least ten days before the final election meeting.
         * This allows other teams to share feedback or objections about candidates their team didn't initially consider with their representative.
@@ -104,6 +106,36 @@ NOTE: The facilitator must ensure that the document is accessible to every votin
 
 For example, in 2025, the facilitator created a document in their personal account, set the "Read" and "Write" Note permissions to "Signed-in users" and took care to only share the link with the voting members. After the meeting, they set the permission to "Only me".
 
+### Flagging affiliation limits and conflicts of interest
+
+Once the list of PD candidates is known, the facilitator should follow the processes below to determine whether there are any conflicts of interest between the PD candidates and Council members, and whether it is possible that affiliation limits might be breached if a given set of PDs were to be elected. The facilitator should raise any potential conflicts with the Council no later than when the candidate pool is shared (at least ten days before the election meeting), so that any determination and any replacement representative can be settled before the meeting. See below for more context.
+
+#### Affiliation Limits
+
+There can be **at most one** Project Director employed by a company that's a [*corporate member* of the Foundation](https://rustfoundation.org/members/)[^3][^4].
+
+Affiliation limits only apply to companies that are corporate (Platinum, Gold, or Silver) members ([Section 4.3(g) of the bylaws](https://rustfoundation.org/policy/bylaws/#section-4.3-nomination%2C-election-and-term-of-office-of-directors)).
+
+Before the election meeting, the facilitator should evaluate the affiliation of all PD candidates, based on their private statement and publicly available information, and also the affiliation of the PDs that are not a part of the given election. If there is a possibility that some set of newly elected PDs could cause the new PD board to be in conflict with the affiliation limits, the facilitator should notify the Council about this.
+
+The affiliation limits should then also be double-checked before the final vote, to ensure that the elected candidates will not be in conflict with them.
+
+#### Conflicts of Interest
+
+The Council will follow the policies defined in the [Leadership Council
+RFC][rfc3392] for handling conflicts of interest.
+
+[rfc3392]: https://rust-lang.github.io/rfcs/3392-leadership-council.html
+
+A potential conflict of interest may be e.g. the PD candidate being an employee or a colleague of a Council member (or vice versa). A special case is when a PD candidate is a Council member, in that case that is a clear conflict of interest that requires no further elaboration.
+
+Any potential conflicts of interest should be flagged and discussed within the Council before the election meeting. The Council members whose potential conflict is being evaluated may provide information but do not take part in the determination, which is made by the remaining Council members in line with the conflict of interest policy:
+- If the Council determines that no conflict of interest exists, it does not require any further action.
+- If the Council determines that there is an actual conflict of interest, then the affected Council members should not participate in further discussions about this PD election, and they should not be a part of the election meeting and the vote. Instead of them, the team that they represent will select another representative who will participate in the election process and cast the vote. The selected representative should not themselves be in another conflict of interest, of course.
+
+The Council's decisions about any identified conflicts of interest, including which representatives will not take part in the election, should be shared with members of the Rust Project before the election meeting. The affiliations behind those decisions do not need to be shared.
+
+If a potential conflict of interest surfaces during the election meeting, the meeting pauses and the Council members not subject to it make the determination without the affected members present, following the same rules as above. If one surfaces after the election, the Council members not subject to it determine whether a conflict existed and confirm whether the result stands, and both the determination and the confirmation are recorded alongside the election outcome.
 
 ### Election Meeting
 
@@ -127,7 +159,7 @@ For example, in 2025, the facilitator created a document in their personal accou
     * If objections persist and the current proposal reaches an impasse, the facilitator should make a new proposal based on the discussion and feedback received.
     * Continue seeking consensus and addressing objections until a satisfactory candidate is selected.
         * Note that this process seeks to produce a candidate everyone is satisfied with and has no objections to. Avoid lengthy debates over preferences not related to objections or unmet requirements.
-* Before voting, double check that the selected candidates comply with [affiliation limits](#affiliation-limits) and the [conflicts of interest](#conflicts-of-interest) rules.
+* Before voting, double check that the selected candidates comply with [affiliation limits](#affiliation-limits) and that any [conflicts of interest](#conflicts-of-interest) have been determined as described in [Flagging affiliation limits and conflicts of interest](#flagging-affiliation-limits-and-conflicts-of-interest).
 * Each council member will privately vote in the election poll set up by the Foundation.
     * The vote happens during the meeting itself.
 * After the meeting, the Facilitator will confirm with the Foundation whether:
@@ -147,23 +179,6 @@ candidates), the Council will postpone the election process to give a chance to
 troubleshoot and find an approach that is more likely to be successful. We do
 not specify how this will happen, but the council would likely convene a
 subcommittee to work on the issue and report back to the Council.
-
-### Affiliation Limits
-
-There can be **at most one** Project Director employed by a company that's a [*corporate member* of the Foundation](https://rustfoundation.org/members/)[^3][^4].
-
-Affiliation limits only apply to companies that are corporate (Platinum, Gold, or Silver) members ([Section 4.3(g) of the bylaws](https://rustfoundation.org/policy/bylaws/#section-4.3-nomination%2C-election-and-term-of-office-of-directors)).
-
-### Conflicts of Interest
-
-The Council will follow the policies defined in the [Leadership Council
-RFC][rfc3392] for handling conflicts of interest.
-
-[rfc3392]: https://rust-lang.github.io/rfcs/3392-leadership-council.html
-
-One potential source of conflicts of interest is if a Council member is nominated as a candidate for
-the Project Director role. In that case, the team the Council member represents will select another
-representative who will participate in the election process and cast the vote.
 
 ### FAQ
 
