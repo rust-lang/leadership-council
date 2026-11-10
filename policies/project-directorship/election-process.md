@@ -112,7 +112,7 @@ Once the list of PD candidates is known, the facilitator should follow the proce
 
 #### Affiliation Limits
 
-There can be **at most one** Project Director employed by a company that's a [*corporate member* of the Foundation](https://rustfoundation.org/members/)[^3][^4].
+There can be **at most one** Project Director employed by each company that's a [*corporate member* of the Foundation](https://rustfoundation.org/members/)[^3][^4].
 
 Affiliation limits only apply to companies that are corporate (Platinum, Gold, or Silver) members ([Section 4.3(g) of the bylaws](https://rustfoundation.org/policy/bylaws/#section-4.3-nomination%2C-election-and-term-of-office-of-directors)).
 
