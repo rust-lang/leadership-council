@@ -107,6 +107,8 @@ These are set by the Rust Project, the [Foundation Bylaws], the laws of the Stat
 - Project directors must disclose their name on the Foundation's IRS Form 990, which is a public document. For an example, see the [Foundation's IRS Form 990 for 2023].
 - No two project directors can be employed by the same corporate member of the Foundation.
   This comes from [Section 4.3(g)] of the Foundation bylaws. See [Employment interpretation](#employment-interpretation).
+- No more than two project directors can be employed by the same company or a Related company (as defined by the Foundation bylaws).
+  See [Employment interpretation](#employment-interpretation). Note that this requirement is not present in the Foundation bylaws.
 - Project Directors must disclose any conflicts of interest to the Foundation.
   These disclosures are kept confidential by the Foundation and are not shared with the public.
 
